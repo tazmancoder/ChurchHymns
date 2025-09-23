@@ -1,0 +1,80 @@
+# ========================
+# macOS System Files
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Thumbnails
+*.icloud
+*.swp
+*.swo
+
+# Spotlight and Trash
+.Spotlight-V100
+.Trashes
+
+# ========================
+# Xcode
+# ========================
+## User settings
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+## Build products
+build/
+DerivedData/
+*.o
+*.linkfilelist
+*.hmap
+
+## Indexes and generated files
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcworkspace/xcuserdata
+*.xcuserstate
+
+## iOS/macOS specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ========================
+# Swift / SwiftPM
+# ========================
+.build/
+.swiftpm/xcode/
+.swiftpm/config/
+Package.resolved
+
+# ========================
+# CocoaPods
+# ========================
+Pods/
+Podfile.lock
+
+# ========================
+# Carthage
+# ========================
+Carthage/Build/
+Carthage/Checkouts/
+
+# ========================
+# Fastlane
+# ========================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# ========================
+# Other
+# ========================
+*.playgroundbook
+timeline.xctimeline
+playground.xcworkspace
+
+# SPM Artifacts
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
