@@ -1,8 +1,7 @@
 {
-  "version" : 4,
-  "name" : "Home & Church",
-  "date" : "2026-04-20T08:30:00Z",
-  "versionDescription" : "2026. 2024-preview Edition",
+  "type" : 3,
+  "date" : "2026-04-20T19:56:21Z",
+  "version" : 5,
   "locale" : "en",
-  "type" : 3
+  "name" : "Home & Church"
 }
