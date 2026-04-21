@@ -1,7 +1,7 @@
 {
-  "type" : 3,
+  "version" : 7,
+  "date" : "2026-04-21T16:35:12Z",
   "locale" : "en",
-  "date" : "2026-04-21T14:37:08Z",
-  "name" : "Home & Church",
-  "version" : 6
+  "type" : 3,
+  "name" : "Home & Church"
 }
