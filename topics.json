@@ -1,6 +1,6 @@
 [
   {
-    "id": "23da0ed2-7ea8-4a87-b92f-5754a5b5e5fa",
+    "id": "6c690191-eddd-4733-8512-4f43021a47e2",
     "name": "Abrahamic Covenant",
     "seeAlso": [],
     "hymns": [
@@ -11,17 +11,29 @@
     ]
   },
   {
-    "id": "7e3cc66d-6e67-4817-9ccb-caa1586045b3",
+    "id": "5ab0da6a-a037-44df-ae00-4e26b38ae05c",
     "name": "Accountability",
     "seeAlso": [],
     "hymns": [
+      {
+        "book": 2,
+        "number": "28a"
+      },
       {
         "book": 2,
         "number": "77"
       },
       {
         "book": 2,
+        "number": "122b"
+      },
+      {
+        "book": 2,
         "number": "140"
+      },
+      {
+        "book": 2,
+        "number": "145b"
       },
       {
         "book": 2,
@@ -42,23 +54,11 @@
       {
         "book": 2,
         "number": "224"
-      },
-      {
-        "book": 2,
-        "number": "122b"
-      },
-      {
-        "book": 2,
-        "number": "145b"
-      },
-      {
-        "book": 2,
-        "number": "28a"
       }
     ]
   },
   {
-    "id": "a17c7f51-2eb6-4316-a98f-6627ec2e42a8",
+    "id": "934d8edd-e5f0-4eca-a1ee-0fa106b0d34a",
     "name": "Action Songs",
     "seeAlso": [],
     "hymns": [
@@ -76,6 +76,10 @@
       },
       {
         "book": 2,
+        "number": "241a"
+      },
+      {
+        "book": 2,
         "number": "242"
       },
       {
@@ -88,11 +92,23 @@
       },
       {
         "book": 2,
+        "number": "253b"
+      },
+      {
+        "book": 2,
         "number": "261"
       },
       {
         "book": 2,
         "number": "266"
+      },
+      {
+        "book": 2,
+        "number": "267a"
+      },
+      {
+        "book": 2,
+        "number": "267b"
       },
       {
         "book": 2,
@@ -124,6 +140,14 @@
       },
       {
         "book": 2,
+        "number": "275a"
+      },
+      {
+        "book": 2,
+        "number": "275b"
+      },
+      {
+        "book": 2,
         "number": "276"
       },
       {
@@ -141,36 +165,12 @@
       {
         "book": 2,
         "number": "281"
-      },
-      {
-        "book": 2,
-        "number": "241a"
-      },
-      {
-        "book": 2,
-        "number": "253b"
-      },
-      {
-        "book": 2,
-        "number": "267a"
-      },
-      {
-        "book": 2,
-        "number": "267b"
-      },
-      {
-        "book": 2,
-        "number": "275a"
-      },
-      {
-        "book": 2,
-        "number": "275b"
       }
     ]
   },
   {
-    "id": "818b41ac-a91e-4094-91cf-1069e9f4332a",
-    "name": "adversity",
+    "id": "1d486a74-be5b-428e-b405-af09ddfc3241",
+    "name": "Adversity",
     "seeAlso": [],
     "hymns": [
       {
@@ -192,11 +192,12 @@
     ]
   },
   {
-    "id": "eaf8e4a3-ff14-48d7-98c8-0197afcf48f2",
+    "id": "82e9d2f7-f466-4b3a-ae2d-950507460474",
     "name": "Agency",
     "seeAlso": [
+      "Choice",
       "Free Agency",
-      "Plan of Salvation"
+      "Plan Of Salvation"
     ],
     "hymns": [
       {
@@ -230,24 +231,20 @@
     ]
   },
   {
-    "id": "d6d99140-121d-4328-a181-9bf128e724fc",
-    "name": "Agency (See Choice)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "f20338a5-4e8b-4b02-a0ec-45e27fb46f4b",
-    "name": "Ancestors (See Family History)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "cfcca3ac-36c6-42a0-9d5c-c165d7b1f206",
-    "name": "Articles of Faith",
+    "id": "def600eb-2b7c-48c1-918b-002b30b40f68",
+    "name": "Articles Of Faith",
     "seeAlso": [
       "Scriptures"
     ],
     "hymns": [
+      {
+        "book": 2,
+        "number": "122a"
+      },
+      {
+        "book": 2,
+        "number": "122b"
+      },
       {
         "book": 2,
         "number": "123"
@@ -262,7 +259,23 @@
       },
       {
         "book": 2,
+        "number": "126a"
+      },
+      {
+        "book": 2,
+        "number": "126b"
+      },
+      {
+        "book": 2,
         "number": "127"
+      },
+      {
+        "book": 2,
+        "number": "128a"
+      },
+      {
+        "book": 2,
+        "number": "128b"
       },
       {
         "book": 2,
@@ -275,35 +288,11 @@
       {
         "book": 2,
         "number": "132"
-      },
-      {
-        "book": 2,
-        "number": "122a"
-      },
-      {
-        "book": 2,
-        "number": "122b"
-      },
-      {
-        "book": 2,
-        "number": "126a"
-      },
-      {
-        "book": 2,
-        "number": "126b"
-      },
-      {
-        "book": 2,
-        "number": "128a"
-      },
-      {
-        "book": 2,
-        "number": "128b"
       }
     ]
   },
   {
-    "id": "7fd19763-c1a9-4025-8e8e-c3a960ec07ee",
+    "id": "b5efd668-84c3-40fe-bcb6-1ce4945cb01c",
     "name": "Assurance",
     "seeAlso": [
       "Comfort",
@@ -481,7 +470,7 @@
     ]
   },
   {
-    "id": "9d07bdaa-a40a-410a-91ea-2857bf245e0a",
+    "id": "f719b039-34f5-4ccf-94c9-ca20a671f76e",
     "name": "Atonement",
     "seeAlso": [
       "Easter",
@@ -506,17 +495,17 @@
       },
       {
         "book": 2,
-        "number": "123"
+        "number": "73b"
       },
       {
         "book": 2,
-        "number": "73b"
+        "number": "123"
       }
     ]
   },
   {
-    "id": "195b0a9b-c8ea-4ba2-b981-22784764f445",
-    "name": "Atonement of Jesus Christ",
+    "id": "bdd0ec14-057f-4bc9-beab-2cc755c4041d",
+    "name": "Atonement Of Jesus Christ",
     "seeAlso": [],
     "hymns": [
       {
@@ -566,7 +555,7 @@
     ]
   },
   {
-    "id": "f0adc4be-323e-44b7-a0f0-37f5ebad8f46",
+    "id": "663c3e26-588a-4fbb-ac41-82e62079d0e5",
     "name": "Authority",
     "seeAlso": [
       "Priesthood"
@@ -579,7 +568,7 @@
     ]
   },
   {
-    "id": "7026cafd-c315-40cd-8afd-39b1b9e3c8b7",
+    "id": "ef4541c7-2d3e-483f-a5bb-cf051118c3d2",
     "name": "Autumn",
     "seeAlso": [],
     "hymns": [
@@ -589,29 +578,23 @@
       },
       {
         "book": 2,
+        "number": "241b"
+      },
+      {
+        "book": 2,
         "number": "246"
       },
       {
         "book": 2,
         "number": "247"
-      },
-      {
-        "book": 2,
-        "number": "241b"
       }
     ]
   },
   {
-    "id": "6d2cfe9a-2390-4c25-a4bb-937f1e636e3c",
-    "name": "Baby Jesus (See Christmas)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "dd36177f-a6ba-4211-8a61-3201cd994971",
+    "id": "2947363b-2ebc-48be-a5a8-db9d8bdc5c43",
     "name": "Baptism",
     "seeAlso": [
-      "Gift of the Holy Ghost",
+      "Gift Of The Holy Ghost",
       "Gospel",
       "Jesus Christ-Baptism"
     ],
@@ -671,7 +654,7 @@
     ]
   },
   {
-    "id": "c24cd944-f003-43b6-becf-3a541dcd732c",
+    "id": "67ff9aa1-71b5-4f35-a196-f34671a2d1b1",
     "name": "Beautiful World",
     "seeAlso": [
       "Gratitude"
@@ -732,7 +715,7 @@
     ]
   },
   {
-    "id": "764cf545-91e9-49ef-abc2-69c326470082",
+    "id": "df4e78a2-f165-4142-b7d1-8939382691dd",
     "name": "Bible",
     "seeAlso": [
       "Scriptures"
@@ -781,7 +764,7 @@
     ]
   },
   {
-    "id": "039932cb-5b19-46ba-ba99-7ba58a6d674e",
+    "id": "624a199e-7fc1-47d6-8011-f0ba8cdcac6b",
     "name": "Birthdays",
     "seeAlso": [],
     "hymns": [
@@ -799,20 +782,20 @@
       },
       {
         "book": 2,
-        "number": "285"
-      },
-      {
-        "book": 2,
         "number": "284a"
       },
       {
         "book": 2,
         "number": "284b"
+      },
+      {
+        "book": 2,
+        "number": "285"
       }
     ]
   },
   {
-    "id": "21a5b439-95fa-4585-8c2a-8c4f6c199a5d",
+    "id": "58a14b37-3ef5-4d21-bcc0-3356cf74f473",
     "name": "Bishops",
     "seeAlso": [],
     "hymns": [
@@ -827,9 +810,12 @@
     ]
   },
   {
-    "id": "becd5efe-8a3b-4f3c-b4c5-4b8b0f3f32c9",
-    "name": "blessings",
-    "seeAlso": [],
+    "id": "57d85db7-c95c-4b1e-863c-f8edcfd950df",
+    "name": "Blessings",
+    "seeAlso": [
+      "Gratitude",
+      "Talents"
+    ],
     "hymns": [
       {
         "book": 3,
@@ -866,14 +852,8 @@
     ]
   },
   {
-    "id": "33617ef9-512b-4cac-a096-2a193409c7fd",
-    "name": "Blessings (See Gratitude, Talents)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "06b60d2f-22ae-45a5-a6c2-296bbc0fa2a1",
-    "name": "Book of Mormon",
+    "id": "2f175136-3c1b-4134-b915-dece803fe68c",
+    "name": "Book Of Mormon",
     "seeAlso": [
       "Meditation",
       "Scriptures"
@@ -925,6 +905,14 @@
       },
       {
         "book": 2,
+        "number": "86a"
+      },
+      {
+        "book": 2,
+        "number": "86b"
+      },
+      {
+        "book": 2,
         "number": "118"
       },
       {
@@ -948,14 +936,6 @@
         "number": "172"
       },
       {
-        "book": 2,
-        "number": "86a"
-      },
-      {
-        "book": 2,
-        "number": "86b"
-      },
-      {
         "book": 3,
         "number": "1017"
       },
@@ -974,7 +954,7 @@
     ]
   },
   {
-    "id": "a9558f79-237a-445b-851c-e217b2e37cdf",
+    "id": "e54e2325-7b4d-4514-b052-8900d5b7a453",
     "name": "Brotherhood",
     "seeAlso": [
       "Aaronic Priesthood",
@@ -1035,13 +1015,21 @@
     ]
   },
   {
-    "id": "cfd8c17c-d00f-43b1-9206-941b30002223",
+    "id": "d1659835-3b85-4fd3-9a1b-1da75742855d",
     "name": "Chapel",
     "seeAlso": [],
     "hymns": [
       {
         "book": 2,
         "number": "29"
+      },
+      {
+        "book": 2,
+        "number": "30a"
+      },
+      {
+        "book": 2,
+        "number": "30b"
       },
       {
         "book": 2,
@@ -1056,14 +1044,6 @@
         "number": "170"
       },
       {
-        "book": 2,
-        "number": "30a"
-      },
-      {
-        "book": 2,
-        "number": "30b"
-      },
-      {
         "book": 3,
         "number": "1026"
       },
@@ -1074,8 +1054,8 @@
     ]
   },
   {
-    "id": "dca5d7c0-6162-48c8-b898-99a2145b79aa",
-    "name": "charity",
+    "id": "c389e65d-e51e-4109-9e43-7ed8ad4865ed",
+    "name": "Charity",
     "seeAlso": [],
     "hymns": [
       {
@@ -1097,7 +1077,7 @@
     ]
   },
   {
-    "id": "d404dd71-58c7-4c7d-ac29-f4f9c0320b77",
+    "id": "9f52aaf8-a45a-4447-b099-b35d322faf72",
     "name": "Chastity",
     "seeAlso": [
       "Commandments",
@@ -1164,7 +1144,7 @@
     ]
   },
   {
-    "id": "327ff428-3c14-4ee2-9db7-152acd2d2722",
+    "id": "77583156-2e62-492b-90f0-b95072832431",
     "name": "Cheerfulness",
     "seeAlso": [
       "Enthusiasm",
@@ -1219,6 +1199,14 @@
       },
       {
         "book": 2,
+        "number": "197a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
+      },
+      {
+        "book": 2,
         "number": "215"
       },
       {
@@ -1243,14 +1231,6 @@
       },
       {
         "book": 2,
-        "number": "197a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
-      },
-      {
-        "book": 2,
         "number": "267a"
       },
       {
@@ -1268,9 +1248,11 @@
     ]
   },
   {
-    "id": "8f509e9c-8151-4fa4-9cf0-737968f66c8b",
-    "name": "child of God",
-    "seeAlso": [],
+    "id": "607f8f04-305d-4ac7-903f-9d820e746476",
+    "name": "Child Of God",
+    "seeAlso": [
+      "Worth Of A Child"
+    ],
     "hymns": [
       {
         "book": 3,
@@ -1283,13 +1265,7 @@
     ]
   },
   {
-    "id": "bfa7dd70-77e5-47f8-95b9-7edb39d3caac",
-    "name": "Child of God (See Worth of a Child)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "eef9890d-6bef-489b-907e-e0e9f14dfd3d",
+    "id": "83c0d044-33ea-4baf-99dc-a3b014d7aa4c",
     "name": "Children",
     "seeAlso": [
       "Family",
@@ -1376,13 +1352,7 @@
     ]
   },
   {
-    "id": "41b2e773-7b41-4d35-9ac1-ee4d9b180781",
-    "name": "Children's Songbook",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "a14797d1-8112-4420-9658-39eb62144857",
+    "id": "e35614ba-9988-4052-a0e5-d12da7a8cd8f",
     "name": "Children's Songs",
     "seeAlso": [],
     "hymns": [
@@ -1437,7 +1407,7 @@
     ]
   },
   {
-    "id": "43368748-99af-49bd-a835-fcb7a3936167",
+    "id": "8a84be77-fa11-4ee5-bfbe-a7d2634055bd",
     "name": "Choice",
     "seeAlso": [],
     "hymns": [
@@ -1500,7 +1470,7 @@
     ]
   },
   {
-    "id": "d69ce7c4-e8df-4a25-bf83-48dc92f41029",
+    "id": "954a4710-72b2-4543-b704-078f9563388c",
     "name": "Christmas",
     "seeAlso": [],
     "hymns": [
@@ -1590,6 +1560,14 @@
       },
       {
         "book": 2,
+        "number": "40a"
+      },
+      {
+        "book": 2,
+        "number": "40b"
+      },
+      {
+        "book": 2,
         "number": "41"
       },
       {
@@ -1629,14 +1607,6 @@
         "number": "54"
       },
       {
-        "book": 2,
-        "number": "40a"
-      },
-      {
-        "book": 2,
-        "number": "40b"
-      },
-      {
         "book": 3,
         "number": "1018"
       },
@@ -1667,7 +1637,7 @@
     ]
   },
   {
-    "id": "d602eb7d-3e99-4fb2-9edf-77868172c0b0",
+    "id": "32f6e1a9-7452-42a3-9e31-d5007a6edd2e",
     "name": "Church Leaders",
     "seeAlso": [
       "Bishops",
@@ -1681,13 +1651,7 @@
     ]
   },
   {
-    "id": "02c04c4a-22e9-4adc-8318-00e9d473ccac",
-    "name": "Class Songs (See Primary Class Songs)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "69e134b2-c27b-47f5-9b5c-7c9f4c105734",
+    "id": "e4753a72-4070-4794-a8c9-c46145604fed",
     "name": "Closing",
     "seeAlso": [],
     "hymns": [
@@ -1778,7 +1742,7 @@
     ]
   },
   {
-    "id": "fcc338ad-02af-4ee0-b71e-36b71a9867a6",
+    "id": "86c003c5-1362-4472-bd9c-0e7e322f1052",
     "name": "Comfort",
     "seeAlso": [
       "Assurance",
@@ -1986,7 +1950,7 @@
     ]
   },
   {
-    "id": "8f247c10-1115-4b8b-be6a-abd084c634dd",
+    "id": "9d0760a1-a950-4e08-afc2-e13d348c2a3b",
     "name": "Commandments",
     "seeAlso": [
       "Commitment",
@@ -1998,7 +1962,7 @@
       "Obedience",
       "Sabbath",
       "Tithing",
-      "Word of Wisdom"
+      "Word Of Wisdom"
     ],
     "hymns": [
       {
@@ -2052,7 +2016,7 @@
     ]
   },
   {
-    "id": "378bfbb5-e1e6-4842-b88c-e603f92d3055",
+    "id": "a2bccdc6-3e4d-4275-aa66-cea5e1a9f361",
     "name": "Commitment",
     "seeAlso": [
       "Consecration",
@@ -2288,8 +2252,8 @@
     ]
   },
   {
-    "id": "07f6bc8a-622b-4bf8-bf11-281bcdc26c0b",
-    "name": "consecration",
+    "id": "9af27614-0a4c-466d-9415-e40b7a95dba4",
+    "name": "Consecration",
     "seeAlso": [],
     "hymns": [
       {
@@ -2307,7 +2271,7 @@
     ]
   },
   {
-    "id": "8acaa9b0-7711-418a-816b-54cc93c04565",
+    "id": "030c252f-aeb3-4eba-9623-42dcd549f98e",
     "name": "Country",
     "seeAlso": [],
     "hymns": [
@@ -2326,7 +2290,7 @@
     ]
   },
   {
-    "id": "291c1b34-373c-4b16-a454-d0d97cbecd0b",
+    "id": "0a24c89b-7bcf-4598-9128-8b1a6423e133",
     "name": "Courage",
     "seeAlso": [
       "Depression",
@@ -2453,8 +2417,8 @@
     ]
   },
   {
-    "id": "daca81f0-e61a-40b0-aee2-1e0b480cc897",
-    "name": "covenants",
+    "id": "9d421d25-038d-4cfa-9bae-4a8f11c505a6",
+    "name": "Covenants",
     "seeAlso": [],
     "hymns": [
       {
@@ -2492,13 +2456,17 @@
     ]
   },
   {
-    "id": "5bea21ec-68c1-45a2-bb7c-e8995b073c3e",
+    "id": "fa9aeb00-f778-47d5-a7df-16768f04de61",
     "name": "Creation",
     "seeAlso": [
       "Beautiful World",
       "Gratitude"
     ],
     "hymns": [
+      {
+        "book": 2,
+        "number": "150a"
+      },
       {
         "book": 2,
         "number": "153"
@@ -2536,10 +2504,6 @@
         "number": "269"
       },
       {
-        "book": 2,
-        "number": "150a"
-      },
-      {
         "book": 3,
         "number": "1046"
       },
@@ -2550,7 +2514,7 @@
     ]
   },
   {
-    "id": "cb4a522c-c857-4260-85b9-4e692c780dd0",
+    "id": "386128db-23e3-48ff-af3e-ee65cce959e1",
     "name": "Crucifixion",
     "seeAlso": [],
     "hymns": [
@@ -2581,8 +2545,8 @@
     ]
   },
   {
-    "id": "6e51b612-fb2b-4537-9dd1-2388b11cb77c",
-    "name": "death",
+    "id": "e55f3b23-10ea-43a1-bb1e-7e20e5428cb0",
+    "name": "Death",
     "seeAlso": [],
     "hymns": [
       {
@@ -2592,8 +2556,8 @@
     ]
   },
   {
-    "id": "29fc64a7-0769-41b5-836e-e4bea28dd093",
-    "name": "Dedication of Buildings",
+    "id": "e5b55ac5-9652-4791-a52b-9e5e3eaeea8c",
+    "name": "Dedication Of Buildings",
     "seeAlso": [
       "Gospel"
     ],
@@ -2613,7 +2577,7 @@
     ]
   },
   {
-    "id": "2bf7efd5-3e2e-4f86-a688-f3ee5e6d4e7b",
+    "id": "86fba5ab-fb7d-42f9-b590-c31fb792e5a0",
     "name": "Dependability",
     "seeAlso": [
       "Commitment"
@@ -2638,10 +2602,10 @@
     ]
   },
   {
-    "id": "d549ad90-8008-46f6-beb0-8459c9efdbd4",
-    "name": "Descants (Optional Voice Parts), Songs with",
+    "id": "864920e1-03c8-4fa5-a7e9-6da4cc0d1be3",
+    "name": "Descants (Optional Voice Parts), Songs With",
     "seeAlso": [
-      "Two-part Songs"
+      "Two-Part Songs"
     ],
     "hymns": [
       {
@@ -2679,8 +2643,8 @@
     ]
   },
   {
-    "id": "c8bd4fd6-52f0-4e90-851e-1e871b4428bb",
-    "name": "diligence",
+    "id": "04ebd314-15cf-4f89-abc9-3c1b06a8dbf1",
+    "name": "Diligence",
     "seeAlso": [],
     "hymns": [
       {
@@ -2690,8 +2654,8 @@
     ]
   },
   {
-    "id": "d0e4ae8c-162b-44d4-8f5b-e38b0d53f87d",
-    "name": "discipleship",
+    "id": "77951064-3cb9-45f3-9355-6c3d89271d37",
+    "name": "Discipleship",
     "seeAlso": [],
     "hymns": [
       {
@@ -2745,7 +2709,7 @@
     ]
   },
   {
-    "id": "ff8bed97-777e-4607-8a0e-2e53e2dab6ca",
+    "id": "d5f8e0ad-9104-4d8e-9c8d-898181fe1b8f",
     "name": "Duty",
     "seeAlso": [
       "Commandments",
@@ -2822,7 +2786,7 @@
     ]
   },
   {
-    "id": "6bac8a12-f1a9-4d3a-ac87-9d762ad656ea",
+    "id": "c471df0d-5e66-4e71-a79b-9b0a393684be",
     "name": "Easter",
     "seeAlso": [
       "Atonement"
@@ -2927,7 +2891,7 @@
     ]
   },
   {
-    "id": "e124f330-9506-4e53-9d47-7279b60c01ae",
+    "id": "563fb62e-7745-41fb-a83f-0da2e1396343",
     "name": "Education",
     "seeAlso": [],
     "hymns": [
@@ -2938,7 +2902,7 @@
     ]
   },
   {
-    "id": "9f2c3418-70e9-4327-b961-0748dec7f853",
+    "id": "df4eb457-72b9-4abf-badd-f9905b66ef0b",
     "name": "Encouragement",
     "seeAlso": [
       "Assurance",
@@ -3044,8 +3008,8 @@
     ]
   },
   {
-    "id": "73f58f22-44c7-4c60-bdd2-e1990710700e",
-    "name": "endure to the end",
+    "id": "9a66a40e-1342-4807-8b80-2e3a331c417d",
+    "name": "Endure To The End",
     "seeAlso": [],
     "hymns": [
       {
@@ -3083,8 +3047,8 @@
     ]
   },
   {
-    "id": "3b29703a-65e8-4720-b962-bb71fc6a1274",
-    "name": "Enduring to the End",
+    "id": "03088ee9-dad8-4c16-8c88-56ae7be3199c",
+    "name": "Enduring To The End",
     "seeAlso": [
       "Diligence",
       "Sacrifice",
@@ -3162,7 +3126,7 @@
     ]
   },
   {
-    "id": "65201315-d078-4ae6-b2ca-215cc37567ac",
+    "id": "f2345461-a4cf-4e49-a3a5-0b00f54fd19c",
     "name": "Eternal Life",
     "seeAlso": [],
     "hymns": [
@@ -3213,7 +3177,7 @@
     ]
   },
   {
-    "id": "bb391d0f-2f2b-4314-9567-b06bb00b2962",
+    "id": "cbff9492-840e-4669-9d28-118d433607a1",
     "name": "Evening",
     "seeAlso": [],
     "hymns": [
@@ -3260,12 +3224,12 @@
     ]
   },
   {
-    "id": "872f8343-916f-4374-a12b-31431ac5716f",
+    "id": "192df96a-2486-4f91-9acd-6f407d664b88",
     "name": "Exaltation",
     "seeAlso": [
       "Celestial Kingdom",
       "Eternal Life",
-      "Plan of Salvation"
+      "Plan Of Salvation"
     ],
     "hymns": [
       {
@@ -3339,7 +3303,7 @@
     ]
   },
   {
-    "id": "a29c07cb-2cc2-40be-b4df-0affd376a699",
+    "id": "415fc58a-772f-49e0-8331-4f14168e6393",
     "name": "Example",
     "seeAlso": [
       "Jesus Christ-Example"
@@ -3383,6 +3347,10 @@
       },
       {
         "book": 2,
+        "number": "28a"
+      },
+      {
+        "book": 2,
         "number": "60"
       },
       {
@@ -3408,6 +3376,10 @@
       {
         "book": 2,
         "number": "144"
+      },
+      {
+        "book": 2,
+        "number": "145b"
       },
       {
         "book": 2,
@@ -3442,21 +3414,13 @@
         "number": "276"
       },
       {
-        "book": 2,
-        "number": "145b"
-      },
-      {
-        "book": 2,
-        "number": "28a"
-      },
-      {
         "book": 3,
         "number": "1028"
       }
     ]
   },
   {
-    "id": "d8a47455-3d1a-40d9-85b8-d3341a48d4ea",
+    "id": "b19c82e9-3bfc-4205-910e-dfdd88a61322",
     "name": "Faith",
     "seeAlso": [
       "Depression",
@@ -3464,7 +3428,7 @@
       "Righteousness",
       "Self-Control",
       "Testimony",
-      "Trust in God"
+      "Trust In God"
     ],
     "hymns": [
       {
@@ -3638,8 +3602,8 @@
     ]
   },
   {
-    "id": "6e43fee5-4eb2-4a48-ab21-0c0d82239a04",
-    "name": "faith in Jesus Christ",
+    "id": "b00772fb-96f9-4487-810b-f78669978289",
+    "name": "Faith In Jesus Christ",
     "seeAlso": [],
     "hymns": [
       {
@@ -3673,7 +3637,7 @@
     ]
   },
   {
-    "id": "47ce7a82-b208-4a70-a789-93132a2be641",
+    "id": "9df8492d-4a6e-41de-a0a5-a6d26326da01",
     "name": "Faithfulness",
     "seeAlso": [
       "Commandments",
@@ -3691,7 +3655,7 @@
       "Self-Control",
       "Strength",
       "Temptation",
-      "Trust in God",
+      "Trust In God",
       "Welfare",
       "Work"
     ],
@@ -3735,8 +3699,8 @@
     ]
   },
   {
-    "id": "6d2b2f4c-bfe8-4607-95c4-489ab490c1b7",
-    "name": "Fall of Adam and Eve",
+    "id": "73412f6f-fb12-410b-a35f-29a2bcba855f",
+    "name": "Fall Of Adam And Eve",
     "seeAlso": [],
     "hymns": [
       {
@@ -3750,7 +3714,7 @@
     ]
   },
   {
-    "id": "574e0aaa-4cd5-4c14-a5a6-6f19c76aa950",
+    "id": "8fcbb4f3-eb25-46f9-8b5a-9ae2fb5d1d34",
     "name": "Family",
     "seeAlso": [
       "Family History",
@@ -3764,6 +3728,10 @@
       {
         "book": 2,
         "number": "20"
+      },
+      {
+        "book": 2,
+        "number": "20b"
       },
       {
         "book": 2,
@@ -3782,10 +3750,6 @@
         "number": "261"
       },
       {
-        "book": 2,
-        "number": "20b"
-      },
-      {
         "book": 3,
         "number": "1011"
       },
@@ -3796,7 +3760,7 @@
     ]
   },
   {
-    "id": "d9cbe5f9-10bc-416b-beb9-02dd3ac48e7e",
+    "id": "52f5f4f0-6332-4f9f-92dc-0348d027f16e",
     "name": "Family History",
     "seeAlso": [],
     "hymns": [
@@ -3827,7 +3791,7 @@
     ]
   },
   {
-    "id": "eee66d4a-e5ff-4df0-817a-21ba7443f4fe",
+    "id": "f2855958-2d08-4821-9574-db150631fefc",
     "name": "Family Home Evening",
     "seeAlso": [],
     "hymns": [
@@ -3842,8 +3806,8 @@
     ]
   },
   {
-    "id": "df670b1a-a211-4450-8bdb-a80b52295143",
-    "name": "fast offerings",
+    "id": "68281022-5de3-429e-8bcc-0f9fb8b58b66",
+    "name": "Fast Offerings",
     "seeAlso": [],
     "hymns": [
       {
@@ -3853,7 +3817,7 @@
     ]
   },
   {
-    "id": "fc726916-fa3c-4b7e-a782-56eade1f40d6",
+    "id": "ccfa2b81-3c4e-4e97-a50b-6a786dcf76f8",
     "name": "Fasting",
     "seeAlso": [],
     "hymns": [
@@ -3876,7 +3840,7 @@
     ]
   },
   {
-    "id": "d928f93a-468a-472a-af9f-3c27780b7de6",
+    "id": "c9c580ca-65cb-4808-a109-3c44780988b7",
     "name": "Fatherhood",
     "seeAlso": [
       "Family",
@@ -3898,7 +3862,7 @@
     ]
   },
   {
-    "id": "9ec7d541-eaa1-45d7-9ec8-19f31cf00df0",
+    "id": "1a4a0294-17ab-45a4-ab4f-bafa3fe926f6",
     "name": "Fathers",
     "seeAlso": [
       "Parents"
@@ -3911,6 +3875,18 @@
       {
         "book": 2,
         "number": "192"
+      },
+      {
+        "book": 2,
+        "number": "197b"
+      },
+      {
+        "book": 2,
+        "number": "198a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
       },
       {
         "book": 2,
@@ -3927,23 +3903,11 @@
       {
         "book": 2,
         "number": "211"
-      },
-      {
-        "book": 2,
-        "number": "197b"
-      },
-      {
-        "book": 2,
-        "number": "198a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
       }
     ]
   },
   {
-    "id": "e73966f3-89cb-4d67-9f00-41afa7a77aa6",
+    "id": "d3b014ea-df6c-4cf4-9fe3-a632c8b35e5f",
     "name": "First Vision",
     "seeAlso": [],
     "hymns": [
@@ -3954,7 +3918,7 @@
     ]
   },
   {
-    "id": "c6885082-996f-4948-bfe6-ea416a71efbc",
+    "id": "70fb9808-7aed-4ba3-8d07-f9d409c463e4",
     "name": "Forgiveness",
     "seeAlso": [
       "Mercy",
@@ -4036,13 +4000,7 @@
     ]
   },
   {
-    "id": "b6e32e93-d02c-4c10-8ea0-bd1f38b71a6d",
-    "name": "Free Agency (See Choice)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "55ede3bf-fca6-4d6b-b8b8-de2f9c746320",
+    "id": "f79d09d7-e886-4130-b4b6-a052d3769383",
     "name": "Freedom",
     "seeAlso": [],
     "hymns": [
@@ -4065,7 +4023,7 @@
     ]
   },
   {
-    "id": "53cbf28f-b257-4324-b6b9-7bb90636fa60",
+    "id": "0a135f8c-1423-4a41-869e-e014cbc0a838",
     "name": "Friends",
     "seeAlso": [
       "Primary"
@@ -4081,7 +4039,19 @@
       },
       {
         "book": 2,
+        "number": "253b"
+      },
+      {
+        "book": 2,
         "number": "254"
+      },
+      {
+        "book": 2,
+        "number": "254a"
+      },
+      {
+        "book": 2,
+        "number": "254b"
       },
       {
         "book": 2,
@@ -4102,29 +4072,11 @@
       {
         "book": 2,
         "number": "263"
-      },
-      {
-        "book": 2,
-        "number": "253b"
-      },
-      {
-        "book": 2,
-        "number": "254a"
-      },
-      {
-        "book": 2,
-        "number": "254b"
       }
     ]
   },
   {
-    "id": "05b5c76b-74ea-4cd5-999b-d42defb288b3",
-    "name": "Fun Songs (See Action Songs, Rounds)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "421e89d5-ba2d-4808-bcbd-dec88f530fc1",
+    "id": "2eb10111-3b36-4802-8eca-0797e2e14cd4",
     "name": "Funeral",
     "seeAlso": [
       "Assurance",
@@ -4223,8 +4175,8 @@
     ]
   },
   {
-    "id": "395e74c2-8023-42a8-900e-6f03fd0b99bb",
-    "name": "Gathering of Israel",
+    "id": "c8c3a338-ebbf-4a0b-b1b2-5993539b6f16",
+    "name": "Gathering Of Israel",
     "seeAlso": [
       "Israel",
       "Jesus Christ - Shepherd",
@@ -4314,14 +4266,8 @@
     ]
   },
   {
-    "id": "7f46868c-1679-443e-b49d-631497827782",
-    "name": "Genealogy (See Family History)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "247fe4f7-dc75-4a82-9534-49ad10fcbabe",
-    "name": "Genealogy and Temple Work",
+    "id": "0d8d0399-e1cb-48ed-8c7a-27ba431f2af6",
+    "name": "Genealogy And Temple Work",
     "seeAlso": [
       "Temples"
     ],
@@ -4397,8 +4343,8 @@
     ]
   },
   {
-    "id": "4643d843-5fe2-4810-99d8-b57c7c114248",
-    "name": "Gift of the Holy Ghost",
+    "id": "e3aeb33d-56bb-4fa4-adf6-31a2e6b9fa85",
+    "name": "Gift Of The Holy Ghost",
     "seeAlso": [
       "Holy Ghost"
     ],
@@ -4418,10 +4364,10 @@
     ]
   },
   {
-    "id": "7063ad75-3cfe-43e3-9d65-9bc11778045d",
-    "name": "God the Father",
+    "id": "669b29ae-9445-4c43-9ddc-66313c7f5b43",
+    "name": "God The Father",
     "seeAlso": [
-      "Plan of Salvation"
+      "Plan Of Salvation"
     ],
     "hymns": [
       {
@@ -4515,11 +4461,11 @@
     ]
   },
   {
-    "id": "989fd3a4-3997-456b-a52b-9a6aaaa1e2b6",
+    "id": "d34640c7-2fa8-44b4-a15a-bb7280c655e9",
     "name": "God's Love",
     "seeAlso": [
       "Creation",
-      "Plan of Salvation"
+      "Plan Of Salvation"
     ],
     "hymns": [
       {
@@ -4573,7 +4519,7 @@
     ]
   },
   {
-    "id": "ee4dd4af-225c-448a-a804-baf8f776bb6c",
+    "id": "22ad285d-03c8-4e39-954d-4aa4381c5a7f",
     "name": "Gospel",
     "seeAlso": [],
     "hymns": [
@@ -4588,7 +4534,7 @@
     ]
   },
   {
-    "id": "a889c765-dd23-4ec8-82ce-f3e7679da499",
+    "id": "0521d8ad-1806-49bf-93a0-b68b30fa6afe",
     "name": "Grace",
     "seeAlso": [
       "Atonement",
@@ -4725,10 +4671,18 @@
     ]
   },
   {
-    "id": "f1fdd2b0-ecc7-4178-a6c7-73a0087fe066",
+    "id": "6ebefec1-9009-4ed0-9548-c4609b86ed2a",
     "name": "Grandparents",
     "seeAlso": [],
     "hymns": [
+      {
+        "book": 2,
+        "number": "198a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
+      },
       {
         "book": 2,
         "number": "199"
@@ -4744,19 +4698,11 @@
       {
         "book": 2,
         "number": "210"
-      },
-      {
-        "book": 2,
-        "number": "198a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
       }
     ]
   },
   {
-    "id": "607dcfa1-0a21-40af-a31e-85c82e409cc1",
+    "id": "03fb13f4-fa79-43df-89fe-cc7f066e73fd",
     "name": "Gratitude",
     "seeAlso": [
       "Beautiful World",
@@ -4911,11 +4857,47 @@
       },
       {
         "book": 2,
+        "number": "20a"
+      },
+      {
+        "book": 2,
+        "number": "20b"
+      },
+      {
+        "book": 2,
+        "number": "21a"
+      },
+      {
+        "book": 2,
+        "number": "21b"
+      },
+      {
+        "book": 2,
         "number": "24"
       },
       {
         "book": 2,
+        "number": "25a"
+      },
+      {
+        "book": 2,
+        "number": "25b"
+      },
+      {
+        "book": 2,
         "number": "27"
+      },
+      {
+        "book": 2,
+        "number": "27a"
+      },
+      {
+        "book": 2,
+        "number": "150a"
+      },
+      {
+        "book": 2,
+        "number": "150b"
       },
       {
         "book": 2,
@@ -4944,42 +4926,6 @@
       {
         "book": 2,
         "number": "269"
-      },
-      {
-        "book": 2,
-        "number": "150a"
-      },
-      {
-        "book": 2,
-        "number": "150b"
-      },
-      {
-        "book": 2,
-        "number": "20a"
-      },
-      {
-        "book": 2,
-        "number": "20b"
-      },
-      {
-        "book": 2,
-        "number": "21a"
-      },
-      {
-        "book": 2,
-        "number": "21b"
-      },
-      {
-        "book": 2,
-        "number": "25a"
-      },
-      {
-        "book": 2,
-        "number": "25b"
-      },
-      {
-        "book": 2,
-        "number": "27a"
       },
       {
         "book": 3,
@@ -5020,14 +4966,14 @@
     ]
   },
   {
-    "id": "b2f9512f-f7a8-476c-a89a-5bd75faea39a",
+    "id": "c3204eb4-0907-439e-af22-5bf1f277be40",
     "name": "Guidance",
     "seeAlso": [
       "Commandments",
       "Holy Ghost",
       "Leaders",
       "Prayer Songs",
-      "Songs for"
+      "Songs For"
     ],
     "hymns": [
       {
@@ -5136,6 +5082,14 @@
       },
       {
         "book": 2,
+        "number": "58a"
+      },
+      {
+        "book": 2,
+        "number": "58b"
+      },
+      {
+        "book": 2,
         "number": "74"
       },
       {
@@ -5203,14 +5157,6 @@
         "number": "229"
       },
       {
-        "book": 2,
-        "number": "58a"
-      },
-      {
-        "book": 2,
-        "number": "58b"
-      },
-      {
         "book": 3,
         "number": "1012"
       },
@@ -5241,7 +5187,7 @@
     ]
   },
   {
-    "id": "e316c278-1601-4d14-b351-2a4dda1c4b84",
+    "id": "9afbd9a4-b2ff-4579-aaf9-d300546e9c6e",
     "name": "Happiness",
     "seeAlso": [
       "Beautiful World",
@@ -5254,7 +5200,15 @@
       },
       {
         "book": 2,
+        "number": "22b"
+      },
+      {
+        "book": 2,
         "number": "60"
+      },
+      {
+        "book": 2,
+        "number": "145a"
       },
       {
         "book": 2,
@@ -5279,6 +5233,18 @@
       {
         "book": 2,
         "number": "167"
+      },
+      {
+        "book": 2,
+        "number": "197a"
+      },
+      {
+        "book": 2,
+        "number": "198a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
       },
       {
         "book": 2,
@@ -5310,31 +5276,11 @@
       },
       {
         "book": 2,
-        "number": "270"
-      },
-      {
-        "book": 2,
-        "number": "145a"
-      },
-      {
-        "book": 2,
-        "number": "197a"
-      },
-      {
-        "book": 2,
-        "number": "198a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
-      },
-      {
-        "book": 2,
-        "number": "22b"
-      },
-      {
-        "book": 2,
         "number": "267a"
+      },
+      {
+        "book": 2,
+        "number": "270"
       },
       {
         "book": 3,
@@ -5343,10 +5289,14 @@
     ]
   },
   {
-    "id": "04a35efc-aa59-4042-90a1-952760bf4ba2",
+    "id": "c1ec7947-8770-42e1-ae83-b94d1b6430cc",
     "name": "Health",
     "seeAlso": [],
     "hymns": [
+      {
+        "book": 2,
+        "number": "21a"
+      },
       {
         "book": 2,
         "number": "153"
@@ -5362,15 +5312,11 @@
       {
         "book": 2,
         "number": "280"
-      },
-      {
-        "book": 2,
-        "number": "21a"
       }
     ]
   },
   {
-    "id": "6ac8d933-611c-43aa-99be-f80f1333fc59",
+    "id": "8b9f0799-f3ed-4104-972e-a29f7c17f6d9",
     "name": "Heavenly Father",
     "seeAlso": [
       "God's Love"
@@ -5406,6 +5352,10 @@
       },
       {
         "book": 2,
+        "number": "122a"
+      },
+      {
+        "book": 2,
         "number": "163"
       },
       {
@@ -5426,19 +5376,15 @@
       },
       {
         "book": 2,
+        "number": "197b"
+      },
+      {
+        "book": 2,
         "number": "209"
       },
       {
         "book": 2,
         "number": "228"
-      },
-      {
-        "book": 2,
-        "number": "122a"
-      },
-      {
-        "book": 2,
-        "number": "197b"
       },
       {
         "book": 3,
@@ -5467,28 +5413,10 @@
     ]
   },
   {
-    "id": "d0c771c2-e756-4282-9341-a05ef96fd21b",
-    "name": "Helpfulness (See Service)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "baa6e442-07bc-4b8e-b68c-c26f52b5b8a3",
-    "name": "Heritage (See Country, Pioneers)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "4453c147-b273-4023-933a-7bac6cd07a74",
-    "name": "Holidays (See Christmas, Country, Easter)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "72bf3e09-7f20-4289-9841-1cb3ee8cdaa1",
+    "id": "387d69fd-d93b-4948-a2a6-f690ce003a91",
     "name": "Holy Ghost",
     "seeAlso": [
-      "Gift of the Holy Ghost"
+      "Gift Of The Holy Ghost"
     ],
     "hymns": [
       {
@@ -5654,12 +5582,16 @@
     ]
   },
   {
-    "id": "9886c7be-25f9-4c5f-83ce-f38a02eacfa8",
+    "id": "bd1b2c6d-6891-487c-9139-8a6d445b5137",
     "name": "Home",
     "seeAlso": [
       "Children",
       "Family",
-      "Marriage"
+      "Family Home Evening",
+      "Fathers",
+      "Marriage",
+      "Mothers",
+      "Parents"
     ],
     "hymns": [
       {
@@ -5765,13 +5697,7 @@
     ]
   },
   {
-    "id": "4b6fe60d-812e-4ad9-b030-a950ec83fc47",
-    "name": "Home (See Family, Family Home Evening, Fathers, Mothers, Parents)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "656ba433-b9d0-4ccb-9f4a-80eb64d0d90a",
+    "id": "c15b9e89-7840-499d-8c18-e40fe41751c0",
     "name": "Honesty",
     "seeAlso": [
       "Commandments",
@@ -5820,6 +5746,10 @@
       },
       {
         "book": 2,
+        "number": "22b"
+      },
+      {
+        "book": 2,
         "number": "55"
       },
       {
@@ -5845,15 +5775,11 @@
       {
         "book": 2,
         "number": "258"
-      },
-      {
-        "book": 2,
-        "number": "22b"
       }
     ]
   },
   {
-    "id": "278be40e-384b-4023-8734-69f431f6f61c",
+    "id": "5cab8dda-3bbf-4fcb-8a9a-3d3eb06a4854",
     "name": "Honor",
     "seeAlso": [],
     "hymns": [
@@ -5876,7 +5802,7 @@
     ]
   },
   {
-    "id": "f627eaa8-c588-4240-b3de-92679798f37e",
+    "id": "400d7ea4-c547-4f26-9130-ff7fd0c10130",
     "name": "Hope",
     "seeAlso": [
       "Assurance",
@@ -5989,7 +5915,7 @@
     ]
   },
   {
-    "id": "c325a1de-63eb-4181-a5ab-761d890e9c66",
+    "id": "b4d36f65-0e5f-47c9-b25a-e06ddc220b4f",
     "name": "Humility",
     "seeAlso": [
       "Moderation",
@@ -6051,13 +5977,7 @@
     ]
   },
   {
-    "id": "c4b6fc6e-486e-416c-83c6-a3fc058a196d",
-    "name": "Hymns",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "843f0cd1-801e-428f-8ac6-49a1458b2f4b",
+    "id": "366ca59d-cbd6-4884-b2ad-6f9a9e0608e7",
     "name": "Jesus Christ",
     "seeAlso": [],
     "hymns": [
@@ -6184,7 +6104,7 @@
     ]
   },
   {
-    "id": "dc9842f3-c37e-4065-a2f3-f69c29f7a537",
+    "id": "a3b36c6e-8f15-4f1e-978a-4bff1b388fd5",
     "name": "Jesus Christ - Creator",
     "seeAlso": [
       "Creation"
@@ -6217,7 +6137,7 @@
     ]
   },
   {
-    "id": "30381aed-c653-44b1-994a-a72efa60efb1",
+    "id": "5defb7b6-9882-43ad-be20-526b7909f428",
     "name": "Jesus Christ - Example",
     "seeAlso": [
       "Sacrifice",
@@ -6279,7 +6199,7 @@
     ]
   },
   {
-    "id": "0cfca74e-1579-47f1-91a4-24489b77cfd0",
+    "id": "88eefd5a-f3e8-4523-89a4-a60073f591f6",
     "name": "Jesus Christ - Friend",
     "seeAlso": [],
     "hymns": [
@@ -6362,7 +6282,7 @@
     ]
   },
   {
-    "id": "f66cbae9-aa40-46b6-8a72-c8b9f59a246d",
+    "id": "66233847-b173-448a-ac4a-02e525ee781d",
     "name": "Jesus Christ - Second Coming",
     "seeAlso": [
       "Israel",
@@ -6500,10 +6420,10 @@
     ]
   },
   {
-    "id": "995190f5-324a-4954-9bc7-7f8e59740f5b",
+    "id": "32710f37-7eb6-4bf2-9632-9ba8e8257cd3",
     "name": "Jesus Christ - Shepherd",
     "seeAlso": [
-      "Gathering of Israel",
+      "Gathering Of Israel",
       "Israel"
     ],
     "hymns": [
@@ -6542,7 +6462,7 @@
     ]
   },
   {
-    "id": "7fc3fea1-018f-4f14-840f-ceae24a14d7a",
+    "id": "8d667a11-7f9c-4682-9a30-ac7d1788858d",
     "name": "Jesus Christ-Baptism",
     "seeAlso": [],
     "hymns": [
@@ -6561,13 +6481,7 @@
     ]
   },
   {
-    "id": "88fe5c5f-1d87-4c36-9b4c-622f998003bc",
-    "name": "Jesus Christ-Birth (See Christmas)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "115fe7d8-520f-4f6d-bf98-9a3b8637a9d0",
+    "id": "f4e85e83-73f7-41cd-b5b2-00b44a356e2b",
     "name": "Jesus Christ-Blesses Children",
     "seeAlso": [
       "Atonement",
@@ -6589,7 +6503,7 @@
     ]
   },
   {
-    "id": "7640b00f-abdd-4eae-b4cf-696168c2fe55",
+    "id": "e5eaed8b-552c-448d-8281-dea8303392f7",
     "name": "Jesus Christ-Example",
     "seeAlso": [],
     "hymns": [
@@ -6616,7 +6530,7 @@
     ]
   },
   {
-    "id": "39c1a6a4-b6a2-48b1-bf85-6d8e3f2f59ea",
+    "id": "084c7078-a6e4-47aa-8650-ec260ed9050e",
     "name": "Jesus Christ-Ministry",
     "seeAlso": [],
     "hymns": [
@@ -6635,13 +6549,7 @@
     ]
   },
   {
-    "id": "db25b2f1-964e-465c-b3eb-096d9968e65a",
-    "name": "Jesus Christ-Savior (See Atonement, Plan of Salvation)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "68505750-d2c8-4961-a44b-df8caae99dcc",
+    "id": "d4e0f070-9c78-4040-81a5-77dd542ecd1d",
     "name": "Jesus Christ-Second Coming",
     "seeAlso": [],
     "hymns": [
@@ -6652,8 +6560,8 @@
     ]
   },
   {
-    "id": "01bb5bdf-46e9-4c02-ac63-db17b6668b90",
-    "name": "Jesus Christ-Son of God",
+    "id": "99ec84e5-3e46-4867-bc76-2ea97e04b609",
+    "name": "Jesus Christ-Son Of God",
     "seeAlso": [],
     "hymns": [
       {
@@ -6667,13 +6575,13 @@
     ]
   },
   {
-    "id": "37251205-40fe-4aaf-adfc-ece5cf713d3e",
+    "id": "5d53e68f-748b-4ab1-a7e6-6dc331580c97",
     "name": "Joseph Smith",
     "seeAlso": [
       "Gospel",
       "Joseph",
       "Prophets",
-      "Restoration of the Gospel",
+      "Restoration Of The Gospel",
       "Smith"
     ],
     "hymns": [
@@ -6715,11 +6623,27 @@
       },
       {
         "book": 2,
+        "number": "86a"
+      },
+      {
+        "book": 2,
+        "number": "86b"
+      },
+      {
+        "book": 2,
         "number": "87"
       },
       {
         "book": 2,
         "number": "88"
+      },
+      {
+        "book": 2,
+        "number": "122a"
+      },
+      {
+        "book": 2,
+        "number": "122b"
       },
       {
         "book": 2,
@@ -6735,7 +6659,23 @@
       },
       {
         "book": 2,
+        "number": "126a"
+      },
+      {
+        "book": 2,
+        "number": "126b"
+      },
+      {
+        "book": 2,
         "number": "127"
+      },
+      {
+        "book": 2,
+        "number": "128a"
+      },
+      {
+        "book": 2,
+        "number": "128b"
       },
       {
         "book": 2,
@@ -6758,45 +6698,13 @@
         "number": "154"
       },
       {
-        "book": 2,
-        "number": "122a"
-      },
-      {
-        "book": 2,
-        "number": "122b"
-      },
-      {
-        "book": 2,
-        "number": "126a"
-      },
-      {
-        "book": 2,
-        "number": "126b"
-      },
-      {
-        "book": 2,
-        "number": "128a"
-      },
-      {
-        "book": 2,
-        "number": "128b"
-      },
-      {
-        "book": 2,
-        "number": "86a"
-      },
-      {
-        "book": 2,
-        "number": "86b"
-      },
-      {
         "book": 3,
         "number": "1049"
       }
     ]
   },
   {
-    "id": "0b3eb5b9-da79-4ce5-b7a2-45058882b7e6",
+    "id": "61bb97ea-79ac-40e4-8a65-145ce48c066a",
     "name": "Joy",
     "seeAlso": [
       "Cheerfulness",
@@ -6884,7 +6792,7 @@
     ]
   },
   {
-    "id": "57e579e4-3b65-4a04-98dc-496c0e34f42b",
+    "id": "cd219839-498e-48ad-b721-053c258b7b5f",
     "name": "Judging",
     "seeAlso": [],
     "hymns": [
@@ -6911,13 +6819,17 @@
     ]
   },
   {
-    "id": "8016b380-650f-4859-9214-8441953c87a9",
+    "id": "14059e77-2ade-492c-97f6-b090dd527764",
     "name": "Kindness",
     "seeAlso": [],
     "hymns": [
       {
         "book": 2,
         "number": "7"
+      },
+      {
+        "book": 2,
+        "number": "22b"
       },
       {
         "book": 2,
@@ -6945,14 +6857,6 @@
       },
       {
         "book": 2,
-        "number": "263"
-      },
-      {
-        "book": 2,
-        "number": "269"
-      },
-      {
-        "book": 2,
         "number": "145a"
       },
       {
@@ -6961,7 +6865,11 @@
       },
       {
         "book": 2,
-        "number": "22b"
+        "number": "263"
+      },
+      {
+        "book": 2,
+        "number": "269"
       },
       {
         "book": 3,
@@ -6970,8 +6878,8 @@
     ]
   },
   {
-    "id": "33a8d016-d7fa-419b-8a19-8b0ad6537be1",
-    "name": "knowledge",
+    "id": "e3554e81-cf42-434c-921d-1147113e5770",
+    "name": "Knowledge",
     "seeAlso": [],
     "hymns": [
       {
@@ -6981,8 +6889,8 @@
     ]
   },
   {
-    "id": "de942335-d870-4345-a4ce-b58f0e6ec5fb",
-    "name": "Languages, Variety of",
+    "id": "cead4fe1-07a9-4132-ae1d-09c9132536c3",
+    "name": "Languages, Variety Of",
     "seeAlso": [],
     "hymns": [
       {
@@ -6996,8 +6904,8 @@
     ]
   },
   {
-    "id": "b262a1f8-09e2-4edd-adc0-bf8e6eeb6728",
-    "name": "Leaders, Songs for",
+    "id": "5807e7b1-1f01-4ae8-aaba-3c88c90af1c3",
+    "name": "Leaders, Songs For",
     "seeAlso": [
       "Teachers"
     ],
@@ -7029,7 +6937,7 @@
     ]
   },
   {
-    "id": "96345259-01fc-42fd-99de-b29b5ddfedf9",
+    "id": "c715b01d-14a1-41b3-a80c-6aebfae5a2bc",
     "name": "Leadership",
     "seeAlso": [
       "Aaronic Priesthood",
@@ -7093,8 +7001,8 @@
     ]
   },
   {
-    "id": "0922cbbc-0c97-4ce3-8455-e13184c88b87",
-    "name": "Light of Christ",
+    "id": "fb7e9ec7-639b-41b5-9017-ee48d05d7793",
+    "name": "Light Of Christ",
     "seeAlso": [],
     "hymns": [
       {
@@ -7124,7 +7032,7 @@
     ]
   },
   {
-    "id": "a3185e21-9da0-4f49-ad93-9f8b10102ea8",
+    "id": "664cc234-2ab8-4e2c-b87d-6d600495b9dd",
     "name": "Love",
     "seeAlso": [
       "Charity",
@@ -7391,7 +7299,7 @@
     ]
   },
   {
-    "id": "0791c61c-3998-4ce0-b72b-08a60b3049e2",
+    "id": "f31bb71d-ad8f-44de-a51e-f87853632843",
     "name": "Lullabies",
     "seeAlso": [],
     "hymns": [
@@ -7418,7 +7326,7 @@
     ]
   },
   {
-    "id": "6898be7a-8d16-458e-8c33-3740c3ba043d",
+    "id": "301f9576-4f77-4398-a0fe-68eb9c3077bb",
     "name": "Mercy",
     "seeAlso": [
       "Assurance",
@@ -7527,11 +7435,12 @@
     ]
   },
   {
-    "id": "e6537b60-7d6e-4fd1-a97e-abef72d5ab1b",
+    "id": "03883213-8cb2-4a5f-bbc7-dca4de5dbe1c",
     "name": "Millennium",
     "seeAlso": [
       "Israel",
       "Jesus Christ - Second Coming",
+      "Jesus Christ-Second Coming",
       "Justice",
       "Second Coming",
       "Zion"
@@ -7632,14 +7541,8 @@
     ]
   },
   {
-    "id": "d485d174-3b83-4e0c-80e9-8a52a15ce23c",
-    "name": "Millennium (See Jesus Christ-Second Coming)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "fbdf95c2-cd88-44ac-b299-c66cd980ae82",
-    "name": "ministering",
+    "id": "f0daab8b-2178-4025-9fec-ff2d3f78d3ce",
+    "name": "Ministering",
     "seeAlso": [],
     "hymns": [
       {
@@ -7657,7 +7560,7 @@
     ]
   },
   {
-    "id": "7aab5325-c0ce-4b39-ad95-20a31046cb92",
+    "id": "162eee5f-5c41-4a26-b64e-798a00bb61dc",
     "name": "Missionary Work",
     "seeAlso": [
       "Gospel"
@@ -7866,7 +7769,7 @@
     ]
   },
   {
-    "id": "56c3e25e-5cec-4f58-9e64-d8de3df7ab5d",
+    "id": "db5f6213-2d3a-4bb4-9362-9a00e7a09ac9",
     "name": "Morality",
     "seeAlso": [],
     "hymns": [
@@ -7933,7 +7836,7 @@
     ]
   },
   {
-    "id": "b58024ec-ca59-492a-8dd0-50ce7382276c",
+    "id": "6a5319f7-88a2-430b-a29a-6ab4030f93bd",
     "name": "Motherhood",
     "seeAlso": [
       "Family",
@@ -7967,7 +7870,7 @@
     ]
   },
   {
-    "id": "4be9deb4-483d-47f9-b37d-e753864493d2",
+    "id": "741c1d04-f9a1-4db7-b12f-e062dba7937c",
     "name": "Mothers",
     "seeAlso": [
       "Parents"
@@ -7980,6 +7883,18 @@
       {
         "book": 2,
         "number": "192"
+      },
+      {
+        "book": 2,
+        "number": "197b"
+      },
+      {
+        "book": 2,
+        "number": "198a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
       },
       {
         "book": 2,
@@ -7999,37 +7914,25 @@
       },
       {
         "book": 2,
-        "number": "207"
-      },
-      {
-        "book": 2,
-        "number": "208"
-      },
-      {
-        "book": 2,
-        "number": "197b"
-      },
-      {
-        "book": 2,
-        "number": "198a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
-      },
-      {
-        "book": 2,
         "number": "206a"
       },
       {
         "book": 2,
         "number": "206b"
+      },
+      {
+        "book": 2,
+        "number": "207"
+      },
+      {
+        "book": 2,
+        "number": "208"
       }
     ]
   },
   {
-    "id": "7cc57fd7-86e4-4328-a2c2-68b545ddeb04",
-    "name": "music",
+    "id": "66245ea0-87ae-4d2e-9f03-d9fa6a604634",
+    "name": "Music",
     "seeAlso": [],
     "hymns": [
       {
@@ -8051,8 +7954,8 @@
     ]
   },
   {
-    "id": "c28a39b4-0853-420c-ba78-9eb6bbd61d19",
-    "name": "Music and Song",
+    "id": "566c97cd-ef6c-45d1-a102-4031828a5e7b",
+    "name": "Music And Song",
     "seeAlso": [],
     "hymns": [
       {
@@ -8162,9 +8065,10 @@
     ]
   },
   {
-    "id": "d9857337-104b-4d18-a7e4-b8209ba820e0",
+    "id": "ecfc52e1-75d0-4bfa-823f-136015558cd4",
     "name": "Nature",
     "seeAlso": [
+      "Beautiful World",
       "Creation"
     ],
     "hymns": [
@@ -8235,13 +8139,7 @@
     ]
   },
   {
-    "id": "4aa7be7c-7e38-453e-939c-d90ab50900fd",
-    "name": "Nature (See Beautiful World, Creation)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "ca779001-a32d-42ca-a2bb-f59c36e2372a",
+    "id": "0c7925fc-726e-46c1-aadc-42293623549a",
     "name": "New Year",
     "seeAlso": [],
     "hymns": [
@@ -8256,10 +8154,10 @@
     ]
   },
   {
-    "id": "ac3a03b3-9e90-4488-bfea-f4920d3bcba1",
-    "name": "Obbligatos (Optional Instrumental Parts), Songs with",
+    "id": "f606fb93-5337-40fb-8d1d-dfa00bc09939",
+    "name": "Obbligatos (Optional Instrumental Parts), Songs With",
     "seeAlso": [
-      "Two-part Songs"
+      "Two-Part Songs"
     ],
     "hymns": [
       {
@@ -8285,12 +8183,12 @@
     ]
   },
   {
-    "id": "da5e2089-c71d-43f4-8704-98d2b7f8d372",
+    "id": "9044fb06-878c-4680-92a8-29a6de275025",
     "name": "Obedience",
     "seeAlso": [
       "Commandments",
       "Morality",
-      "Plan of Salvation",
+      "Plan Of Salvation",
       "Self-Control"
     ],
     "hymns": [
@@ -8400,6 +8298,10 @@
       },
       {
         "book": 2,
+        "number": "58a"
+      },
+      {
+        "book": 2,
         "number": "96"
       },
       {
@@ -8464,6 +8366,10 @@
       },
       {
         "book": 2,
+        "number": "197b"
+      },
+      {
+        "book": 2,
         "number": "215"
       },
       {
@@ -8473,14 +8379,6 @@
       {
         "book": 2,
         "number": "272"
-      },
-      {
-        "book": 2,
-        "number": "197b"
-      },
-      {
-        "book": 2,
-        "number": "58a"
       },
       {
         "book": 3,
@@ -8505,7 +8403,7 @@
     ]
   },
   {
-    "id": "9020f898-15ad-4927-9021-97e526977df2",
+    "id": "4200e1c3-1977-458b-8f74-6d3d2b401453",
     "name": "Old Testament",
     "seeAlso": [],
     "hymns": [
@@ -8520,8 +8418,8 @@
     ]
   },
   {
-    "id": "32c019d7-2252-4b3b-bcdb-f110d5188e5c",
-    "name": "opening",
+    "id": "2eed2d4a-3538-40da-b0c9-95e229c1c4f6",
+    "name": "Opening",
     "seeAlso": [],
     "hymns": [
       {
@@ -8535,14 +8433,8 @@
     ]
   },
   {
-    "id": "bc6e0cca-a254-45db-ab2d-7000cc5757a9",
-    "name": "Ordinances (See Baptism, Gift of the Holy Ghost, Priesthood, Sacrament, Temples)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "df5e5909-7093-4786-bf35-7f480f0727bd",
-    "name": "Ostinatos (Optional Repeated Patterns), Songs with",
+    "id": "5f24291a-5133-4714-8d8f-d73a439f62ec",
+    "name": "Ostinatos (Optional Repeated Patterns), Songs With",
     "seeAlso": [],
     "hymns": [
       {
@@ -8551,16 +8443,16 @@
       },
       {
         "book": 2,
-        "number": "217"
+        "number": "197b"
       },
       {
         "book": 2,
-        "number": "197b"
+        "number": "217"
       }
     ]
   },
   {
-    "id": "a07f93ae-4209-41b5-bdd5-73ff16ae3aac",
+    "id": "faa413e6-7143-4b2e-8b6d-8bec5dc2e9c5",
     "name": "Parables",
     "seeAlso": [],
     "hymns": [
@@ -8587,7 +8479,7 @@
     ]
   },
   {
-    "id": "9c47bcc3-1ca0-47ec-9371-4407572190c0",
+    "id": "bcaebb94-8276-4c97-a160-205ec76937dc",
     "name": "Parents",
     "seeAlso": [],
     "hymns": [
@@ -8621,20 +8513,20 @@
       },
       {
         "book": 2,
+        "number": "197b"
+      },
+      {
+        "book": 2,
         "number": "208"
       },
       {
         "book": 2,
         "number": "230"
-      },
-      {
-        "book": 2,
-        "number": "197b"
       }
     ]
   },
   {
-    "id": "b8767db2-8601-49b2-8264-f78d6c705739",
+    "id": "79677b6e-840c-4317-8a6a-38a0b9f91f4a",
     "name": "Patience",
     "seeAlso": [
       "Adversity",
@@ -8676,9 +8568,11 @@
     ]
   },
   {
-    "id": "1d95b5a4-5121-44fc-b1fc-100bc9d30282",
+    "id": "3751d14f-5391-4df0-85aa-4c01712f194b",
     "name": "Patriotism",
-    "seeAlso": [],
+    "seeAlso": [
+      "Country"
+    ],
     "hymns": [
       {
         "book": 1,
@@ -8711,13 +8605,7 @@
     ]
   },
   {
-    "id": "e7aa91f5-fc7a-4d0d-87e7-ec914142982f",
-    "name": "Patriotism (See Country)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "b1c02abe-5b16-455f-bff8-47fefb95d7bf",
+    "id": "f905f8c2-925d-4b54-b31f-074fa20474dc",
     "name": "Peace",
     "seeAlso": [],
     "hymns": [
@@ -8815,11 +8703,11 @@
       },
       {
         "book": 2,
-        "number": "146"
+        "number": "86a"
       },
       {
         "book": 2,
-        "number": "86a"
+        "number": "146"
       },
       {
         "book": 3,
@@ -8880,7 +8768,7 @@
     ]
   },
   {
-    "id": "d388a8d1-93e2-44ac-b843-c9c6708d645f",
+    "id": "20648769-853e-4740-beda-e021fc61be7a",
     "name": "Pioneers",
     "seeAlso": [],
     "hymns": [
@@ -8959,8 +8847,8 @@
     ]
   },
   {
-    "id": "4d0059e9-b315-4da7-8975-dece18fc37c8",
-    "name": "Plan of Salvation",
+    "id": "c177e1a2-7e36-4f77-87c5-433fbbdcb91c",
+    "name": "Plan Of Salvation",
     "seeAlso": [
       "Agency",
       "Atonement",
@@ -8970,7 +8858,7 @@
       "Exaltation",
       "Fall",
       "Free Agency",
-      "God the Father",
+      "God The Father",
       "Gospel",
       "Jesus Christ - Savior",
       "Justice",
@@ -9090,7 +8978,7 @@
     ]
   },
   {
-    "id": "28ff0d9b-40a1-4197-ac82-d763b63bda2e",
+    "id": "bea9234a-2664-49cc-8d5b-abe072b2c333",
     "name": "Praise",
     "seeAlso": [
       "Easter",
@@ -9243,6 +9131,14 @@
       },
       {
         "book": 2,
+        "number": "21a"
+      },
+      {
+        "book": 2,
+        "number": "58b"
+      },
+      {
+        "book": 2,
         "number": "62"
       },
       {
@@ -9256,14 +9152,6 @@
       {
         "book": 2,
         "number": "232"
-      },
-      {
-        "book": 2,
-        "number": "21a"
-      },
-      {
-        "book": 2,
-        "number": "58b"
       },
       {
         "book": 3,
@@ -9344,7 +9232,7 @@
     ]
   },
   {
-    "id": "c63f6121-3f4c-44b7-a608-2959462d64b9",
+    "id": "0b7440e2-3747-4795-910d-62045635026f",
     "name": "Prayer",
     "seeAlso": [
       "Meditation",
@@ -9430,7 +9318,27 @@
       },
       {
         "book": 2,
+        "number": "22a"
+      },
+      {
+        "book": 2,
+        "number": "25a"
+      },
+      {
+        "book": 2,
+        "number": "25b"
+      },
+      {
+        "book": 2,
         "number": "29"
+      },
+      {
+        "book": 2,
+        "number": "30a"
+      },
+      {
+        "book": 2,
+        "number": "58b"
       },
       {
         "book": 2,
@@ -9467,26 +9375,6 @@
       {
         "book": 2,
         "number": "190"
-      },
-      {
-        "book": 2,
-        "number": "22a"
-      },
-      {
-        "book": 2,
-        "number": "25a"
-      },
-      {
-        "book": 2,
-        "number": "25b"
-      },
-      {
-        "book": 2,
-        "number": "30a"
-      },
-      {
-        "book": 2,
-        "number": "58b"
       },
       {
         "book": 3,
@@ -9539,7 +9427,7 @@
     ]
   },
   {
-    "id": "f6d5c8a5-537e-48c6-a7bf-bb2daff9c83a",
+    "id": "5c33f68b-5a73-4f1b-a228-c6acfabf3946",
     "name": "Prayer Songs",
     "seeAlso": [
       "Beautiful World",
@@ -9603,11 +9491,43 @@
       },
       {
         "book": 2,
+        "number": "20a"
+      },
+      {
+        "book": 2,
+        "number": "20b"
+      },
+      {
+        "book": 2,
+        "number": "21b"
+      },
+      {
+        "book": 2,
         "number": "22"
       },
       {
         "book": 2,
+        "number": "22a"
+      },
+      {
+        "book": 2,
+        "number": "22b"
+      },
+      {
+        "book": 2,
+        "number": "23a"
+      },
+      {
+        "book": 2,
+        "number": "23b"
+      },
+      {
+        "book": 2,
         "number": "24"
+      },
+      {
+        "book": 2,
+        "number": "25a"
       },
       {
         "book": 2,
@@ -9616,6 +9536,14 @@
       {
         "book": 2,
         "number": "29"
+      },
+      {
+        "book": 2,
+        "number": "30a"
+      },
+      {
+        "book": 2,
+        "number": "30b"
       },
       {
         "book": 2,
@@ -9636,51 +9564,11 @@
       {
         "book": 2,
         "number": "229"
-      },
-      {
-        "book": 2,
-        "number": "20a"
-      },
-      {
-        "book": 2,
-        "number": "20b"
-      },
-      {
-        "book": 2,
-        "number": "21b"
-      },
-      {
-        "book": 2,
-        "number": "22a"
-      },
-      {
-        "book": 2,
-        "number": "22b"
-      },
-      {
-        "book": 2,
-        "number": "23a"
-      },
-      {
-        "book": 2,
-        "number": "23b"
-      },
-      {
-        "book": 2,
-        "number": "25a"
-      },
-      {
-        "book": 2,
-        "number": "30a"
-      },
-      {
-        "book": 2,
-        "number": "30b"
       }
     ]
   },
   {
-    "id": "cae0c10d-e637-4e17-a72f-c8393d97ac75",
+    "id": "2b0e02d4-c7e5-4c83-9f3a-fd17bd66c799",
     "name": "Premortal Existence",
     "seeAlso": [],
     "hymns": [
@@ -9707,7 +9595,7 @@
     ]
   },
   {
-    "id": "539db07e-3fe5-4d88-a9d9-22edfec7e4cb",
+    "id": "96c635ef-b090-4438-9781-b4c4fbe619fa",
     "name": "Premortal Life",
     "seeAlso": [],
     "hymns": [
@@ -9742,7 +9630,7 @@
     ]
   },
   {
-    "id": "e418402d-e6fe-4f30-85a7-2b48a618826e",
+    "id": "0369ee02-30cc-4417-9dc8-52ae621a30e0",
     "name": "Preparation",
     "seeAlso": [
       "Commitment"
@@ -9807,7 +9695,7 @@
     ]
   },
   {
-    "id": "096b0ccd-4820-412f-8cb1-62d566cd33d9",
+    "id": "101ee4fc-9db4-473a-a7a3-19daa00bfaa0",
     "name": "Preparedness",
     "seeAlso": [
       "Jesus Christ - Second Coming",
@@ -9871,7 +9759,7 @@
     ]
   },
   {
-    "id": "106967ad-5f2b-4c94-a157-caa5a6740498",
+    "id": "c49d7b8d-a21b-446c-a4d6-b9ba2442f6d5",
     "name": "Priesthood",
     "seeAlso": [
       "Aaronic Priesthood",
@@ -9976,13 +9864,17 @@
     ]
   },
   {
-    "id": "5b8fe824-144c-4ea2-9344-a8d864e919e0",
+    "id": "2a614eca-971e-46fb-b7b2-5bd9fc1e6d61",
     "name": "Primary",
     "seeAlso": [],
     "hymns": [
       {
         "book": 2,
         "number": "254"
+      },
+      {
+        "book": 2,
+        "number": "254a"
       },
       {
         "book": 2,
@@ -10003,15 +9895,11 @@
       {
         "book": 2,
         "number": "261"
-      },
-      {
-        "book": 2,
-        "number": "254a"
       }
     ]
   },
   {
-    "id": "eee3d197-2eb4-44b0-8830-d208a41e1574",
+    "id": "c8167e2a-87a4-4bc4-8335-4c09e1ba27ea",
     "name": "Primary Class Songs",
     "seeAlso": [],
     "hymns": [
@@ -10042,7 +9930,7 @@
     ]
   },
   {
-    "id": "9fd5de6e-bb17-470a-979c-90b751ed2b10",
+    "id": "7c16628d-ac6a-42fe-b29b-2649f69fe6c2",
     "name": "Prophecy",
     "seeAlso": [
       "Prophets",
@@ -10080,13 +9968,13 @@
     ]
   },
   {
-    "id": "7f77cde4-6b14-48bc-a102-c8dd4bd5cd15",
+    "id": "035dec7f-b4c9-4fd5-bd9a-cbae58527edf",
     "name": "Prophets",
     "seeAlso": [
       "Joseph",
       "Joseph Smith",
       "Prophecy",
-      "Restoration of the Gospel",
+      "Restoration Of The Gospel",
       "Revelation",
       "Smith"
     ],
@@ -10173,6 +10061,10 @@
       },
       {
         "book": 2,
+        "number": "126a"
+      },
+      {
+        "book": 2,
         "number": "134"
       },
       {
@@ -10192,10 +10084,6 @@
         "number": "237"
       },
       {
-        "book": 2,
-        "number": "126a"
-      },
-      {
         "book": 3,
         "number": "1060"
       },
@@ -10206,13 +10094,7 @@
     ]
   },
   {
-    "id": "40946ee9-7c64-4baa-8fba-456044b6bcea",
-    "name": "Purity (See Morality)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "0c799d01-53ac-4c84-85aa-079375c9a765",
+    "id": "076d66f2-1415-4785-b69d-f534b7ff9baa",
     "name": "Quiet",
     "seeAlso": [
       "Reverence"
@@ -10225,6 +10107,14 @@
       {
         "book": 2,
         "number": "27"
+      },
+      {
+        "book": 2,
+        "number": "27a"
+      },
+      {
+        "book": 2,
+        "number": "27b"
       },
       {
         "book": 2,
@@ -10257,19 +10147,11 @@
       {
         "book": 2,
         "number": "275b"
-      },
-      {
-        "book": 2,
-        "number": "27a"
-      },
-      {
-        "book": 2,
-        "number": "27b"
       }
     ]
   },
   {
-    "id": "0242341a-9860-46ce-99cc-1d520ddef28d",
+    "id": "1e574746-37ac-4e5f-b853-85f7ef3c960f",
     "name": "Reactivation",
     "seeAlso": [
       "Activation",
@@ -10324,8 +10206,8 @@
     ]
   },
   {
-    "id": "eb0e6146-2b66-4da7-8550-6901f10e6e8c",
-    "name": "rejoicing",
+    "id": "ea2e1ff6-eefc-4064-a3d0-5ff9a934bc02",
+    "name": "Rejoicing",
     "seeAlso": [],
     "hymns": [
       {
@@ -10355,7 +10237,7 @@
     ]
   },
   {
-    "id": "0bea87ac-e78a-412d-8d8b-46da24c944e6",
+    "id": "9325862a-b664-4971-a16c-5b29fb3811ef",
     "name": "Repentance",
     "seeAlso": [
       "Forgiveness",
@@ -10493,13 +10375,7 @@
     ]
   },
   {
-    "id": "132d2b92-7957-4fd8-8254-d795796b69e3",
-    "name": "Responsibility (See Accountability, Dependability, Service, Work)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "22b14faa-59ef-4d6a-9e6b-9c3202804e46",
+    "id": "b9614b0a-7acc-48da-b061-85bfe51ec715",
     "name": "Restoration",
     "seeAlso": [],
     "hymns": [
@@ -10510,8 +10386,8 @@
     ]
   },
   {
-    "id": "75b51c48-0d43-4efb-8b73-7111b18e3f28",
-    "name": "Restoration of the Church",
+    "id": "4e3efb89-b7df-4066-b336-f6697ce069ce",
+    "name": "Restoration Of The Church",
     "seeAlso": [],
     "hymns": [
       {
@@ -10521,8 +10397,8 @@
     ]
   },
   {
-    "id": "45d4c616-ee15-43fc-9b4d-5b342044c5b0",
-    "name": "Restoration of the Gospel",
+    "id": "e359a96b-b313-44f6-aef9-9ab26f997343",
+    "name": "Restoration Of The Gospel",
     "seeAlso": [
       "Gospel",
       "Joseph",
@@ -10674,6 +10550,14 @@
       },
       {
         "book": 2,
+        "number": "86a"
+      },
+      {
+        "book": 2,
+        "number": "86b"
+      },
+      {
+        "book": 2,
         "number": "87"
       },
       {
@@ -10683,19 +10567,11 @@
       {
         "book": 2,
         "number": "89"
-      },
-      {
-        "book": 2,
-        "number": "86a"
-      },
-      {
-        "book": 2,
-        "number": "86b"
       }
     ]
   },
   {
-    "id": "249803e2-d9df-4acb-957c-ecc97dbd463e",
+    "id": "f926479b-0eaa-47ab-bfdf-343cb31bacf4",
     "name": "Resurrection",
     "seeAlso": [],
     "hymns": [
@@ -10806,7 +10682,7 @@
     ]
   },
   {
-    "id": "a3ea16d8-4598-4266-ac93-cbb4ce2e0b86",
+    "id": "318696d7-85fd-4b85-8a02-ac00aace9a02",
     "name": "Revelation",
     "seeAlso": [
       "Gospel",
@@ -10814,7 +10690,7 @@
       "Meditation",
       "Prayer",
       "Prophets",
-      "Restoration of the Gospel",
+      "Restoration Of The Gospel",
       "Scriptures"
     ],
     "hymns": [
@@ -10888,15 +10764,15 @@
       },
       {
         "book": 2,
-        "number": "176"
-      },
-      {
-        "book": 2,
         "number": "126b"
       },
       {
         "book": 2,
         "number": "128a"
+      },
+      {
+        "book": 2,
+        "number": "176"
       },
       {
         "book": 3,
@@ -10913,7 +10789,7 @@
     ]
   },
   {
-    "id": "6efb27a4-4e9c-41d2-a6fe-e0ab197dce37",
+    "id": "c5864ad2-08f6-4c73-921e-f0ca562a05ad",
     "name": "Reverence",
     "seeAlso": [
       "Quiet"
@@ -10953,47 +10829,15 @@
       },
       {
         "book": 2,
+        "number": "23b"
+      },
+      {
+        "book": 2,
         "number": "26"
       },
       {
         "book": 2,
         "number": "27"
-      },
-      {
-        "book": 2,
-        "number": "29"
-      },
-      {
-        "book": 2,
-        "number": "31"
-      },
-      {
-        "book": 2,
-        "number": "71"
-      },
-      {
-        "book": 2,
-        "number": "73"
-      },
-      {
-        "book": 2,
-        "number": "156"
-      },
-      {
-        "book": 2,
-        "number": "157"
-      },
-      {
-        "book": 2,
-        "number": "170"
-      },
-      {
-        "book": 2,
-        "number": "270"
-      },
-      {
-        "book": 2,
-        "number": "23b"
       },
       {
         "book": 2,
@@ -11013,6 +10857,10 @@
       },
       {
         "book": 2,
+        "number": "29"
+      },
+      {
+        "book": 2,
         "number": "30a"
       },
       {
@@ -11021,24 +10869,58 @@
       },
       {
         "book": 2,
+        "number": "31"
+      },
+      {
+        "book": 2,
+        "number": "71"
+      },
+      {
+        "book": 2,
+        "number": "73"
+      },
+      {
+        "book": 2,
         "number": "73a"
+      },
+      {
+        "book": 2,
+        "number": "156"
+      },
+      {
+        "book": 2,
+        "number": "157"
+      },
+      {
+        "book": 2,
+        "number": "170"
+      },
+      {
+        "book": 2,
+        "number": "270"
       }
     ]
   },
   {
-    "id": "6b0ffbe0-ea45-4897-92a7-7ce87dbe2c3b",
-    "name": "Righteousness (See Choice, Commitment, Morality, Preparation)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "4432c484-b31e-4485-afa0-a0381e07353d",
+    "id": "f5a90365-9efd-4116-95d1-281ad2eac99a",
     "name": "Rounds",
     "seeAlso": [],
     "hymns": [
       {
         "book": 2,
+        "number": "21a"
+      },
+      {
+        "book": 2,
+        "number": "21b"
+      },
+      {
+        "book": 2,
         "number": "40"
+      },
+      {
+        "book": 2,
+        "number": "40b"
       },
       {
         "book": 2,
@@ -11054,6 +10936,14 @@
       },
       {
         "book": 2,
+        "number": "253a"
+      },
+      {
+        "book": 2,
+        "number": "254b"
+      },
+      {
+        "book": 2,
         "number": "255"
       },
       {
@@ -11063,34 +10953,18 @@
       {
         "book": 2,
         "number": "285"
-      },
-      {
-        "book": 2,
-        "number": "21a"
-      },
-      {
-        "book": 2,
-        "number": "21b"
-      },
-      {
-        "book": 2,
-        "number": "253a"
-      },
-      {
-        "book": 2,
-        "number": "254b"
-      },
-      {
-        "book": 2,
-        "number": "40b"
       }
     ]
   },
   {
-    "id": "97480abb-b5d3-4215-aed2-6e391eab35d3",
+    "id": "9c4a4d8b-216a-421d-84e9-672bc1af001f",
     "name": "Sabbath",
     "seeAlso": [],
     "hymns": [
+      {
+        "book": 2,
+        "number": "23b"
+      },
       {
         "book": 2,
         "number": "112"
@@ -11116,10 +10990,6 @@
         "number": "214"
       },
       {
-        "book": 2,
-        "number": "23b"
-      },
-      {
         "book": 3,
         "number": "1007"
       },
@@ -11130,7 +11000,7 @@
     ]
   },
   {
-    "id": "ec02813c-2ff5-479c-b99f-ae0de50ad9af",
+    "id": "a1ed649a-becc-44a0-a200-5c3c1a446085",
     "name": "Sabbath Day",
     "seeAlso": [
       "Sunday School"
@@ -11179,7 +11049,7 @@
     ]
   },
   {
-    "id": "59fe8d58-fef7-49c8-bb79-5f4cd76175ee",
+    "id": "182f1e76-fc43-49d3-a792-8b4fdafeb695",
     "name": "Sacrament",
     "seeAlso": [
       "Atonement"
@@ -11328,14 +11198,14 @@
     ]
   },
   {
-    "id": "01beb33e-0e83-4d74-ba9b-290499586f6b",
+    "id": "c22e8bdd-243e-4eab-ac50-510790bfe877",
     "name": "Sacrifice",
     "seeAlso": [
       "Charity",
       "Compassion",
       "Consecration",
       "Diligence",
-      "Enduring to the End",
+      "Enduring To The End",
       "Fellowship",
       "Jesus Christ - Example",
       "Kindness",
@@ -11410,17 +11280,11 @@
     ]
   },
   {
-    "id": "9b35d4e5-aa97-47d0-bb79-6a68aa58d5a5",
-    "name": "Savior (See Atonement, Plan of Salvation)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "5752541a-8aba-47ef-952b-8e4437ce8429",
+    "id": "9f93e67a-08aa-41e8-9794-c3b1aaf1f6c2",
     "name": "Scriptures",
     "seeAlso": [
       "Bible",
-      "Book of Mormon",
+      "Book Of Mormon",
       "Meditation",
       "Truth"
     ],
@@ -11479,6 +11343,14 @@
       },
       {
         "book": 2,
+        "number": "122a"
+      },
+      {
+        "book": 2,
+        "number": "122b"
+      },
+      {
+        "book": 2,
         "number": "123"
       },
       {
@@ -11491,7 +11363,23 @@
       },
       {
         "book": 2,
+        "number": "126a"
+      },
+      {
+        "book": 2,
+        "number": "126b"
+      },
+      {
+        "book": 2,
         "number": "127"
+      },
+      {
+        "book": 2,
+        "number": "128a"
+      },
+      {
+        "book": 2,
+        "number": "128b"
       },
       {
         "book": 2,
@@ -11510,30 +11398,6 @@
         "number": "166"
       },
       {
-        "book": 2,
-        "number": "122a"
-      },
-      {
-        "book": 2,
-        "number": "122b"
-      },
-      {
-        "book": 2,
-        "number": "126a"
-      },
-      {
-        "book": 2,
-        "number": "126b"
-      },
-      {
-        "book": 2,
-        "number": "128a"
-      },
-      {
-        "book": 2,
-        "number": "128b"
-      },
-      {
         "book": 3,
         "number": "1002"
       },
@@ -11548,13 +11412,7 @@
     ]
   },
   {
-    "id": "39b434ea-f288-4226-8d1f-006e33ae2e52",
-    "name": "Seasons (See Autumn, Beautiful World, Spring, Summer, Winter)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "f241702d-bec7-43be-a45a-49748028bee9",
+    "id": "e29c81ec-6fcf-4133-8195-16cc759ea3f5",
     "name": "Second Coming",
     "seeAlso": [],
     "hymns": [
@@ -11581,13 +11439,7 @@
     ]
   },
   {
-    "id": "f4ea50c6-2b36-4360-b9b6-cd527f355f37",
-    "name": "Self-esteem (See Worth of a Child)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "ffd73132-e425-4b11-8173-8b7e3bf44794",
+    "id": "8eb85729-81c1-4bcb-a7cf-5feb896684d2",
     "name": "Self-Improvement",
     "seeAlso": [
       "Commandments",
@@ -11665,7 +11517,7 @@
     ]
   },
   {
-    "id": "18579104-3729-4a4d-ae6f-ec4bb60da887",
+    "id": "0ccc6024-27ea-4412-97ae-4d14faf1b64d",
     "name": "Service",
     "seeAlso": [
       "Charity",
@@ -11869,7 +11721,19 @@
       },
       {
         "book": 2,
+        "number": "197a"
+      },
+      {
+        "book": 2,
+        "number": "198b"
+      },
+      {
+        "book": 2,
         "number": "236"
+      },
+      {
+        "book": 2,
+        "number": "253b"
       },
       {
         "book": 2,
@@ -11882,18 +11746,6 @@
       {
         "book": 2,
         "number": "272"
-      },
-      {
-        "book": 2,
-        "number": "197a"
-      },
-      {
-        "book": 2,
-        "number": "198b"
-      },
-      {
-        "book": 2,
-        "number": "253b"
       },
       {
         "book": 3,
@@ -11930,12 +11782,16 @@
     ]
   },
   {
-    "id": "bfc3f35c-d7dc-41f5-a66e-ac16db18f3d1",
+    "id": "7a7aa15f-2ac1-465c-9320-7fc7fa0b811f",
     "name": "Sharing",
     "seeAlso": [
       "Missionary Work"
     ],
     "hymns": [
+      {
+        "book": 2,
+        "number": "22b"
+      },
       {
         "book": 2,
         "number": "236"
@@ -11946,20 +11802,16 @@
       },
       {
         "book": 2,
-        "number": "262"
-      },
-      {
-        "book": 2,
-        "number": "22b"
-      },
-      {
-        "book": 2,
         "number": "253b"
+      },
+      {
+        "book": 2,
+        "number": "262"
       }
     ]
   },
   {
-    "id": "ea4354e5-62f2-4a32-ae2d-6b10bb8a4479",
+    "id": "6295cc8c-681f-4c6c-8c11-9d0288541008",
     "name": "Singing",
     "seeAlso": [],
     "hymns": [
@@ -11974,6 +11826,10 @@
       {
         "book": 2,
         "number": "193"
+      },
+      {
+        "book": 2,
+        "number": "198b"
       },
       {
         "book": 2,
@@ -12013,6 +11869,14 @@
       },
       {
         "book": 2,
+        "number": "253a"
+      },
+      {
+        "book": 2,
+        "number": "253b"
+      },
+      {
+        "book": 2,
         "number": "255"
       },
       {
@@ -12022,23 +11886,11 @@
       {
         "book": 2,
         "number": "264"
-      },
-      {
-        "book": 2,
-        "number": "198b"
-      },
-      {
-        "book": 2,
-        "number": "253a"
-      },
-      {
-        "book": 2,
-        "number": "253b"
       }
     ]
   },
   {
-    "id": "5be87926-9197-4106-8519-9e6dbfdc8c46",
+    "id": "060ad97c-2c10-4b49-a745-ad6bd1be24d7",
     "name": "Sisterhood",
     "seeAlso": [
       "Charity",
@@ -12071,7 +11923,7 @@
     ]
   },
   {
-    "id": "2cd03daf-8be8-4c81-832d-c7f6f08624ae",
+    "id": "91f9d2d3-103f-47ad-90e9-fc88eb35e420",
     "name": "Smiles",
     "seeAlso": [],
     "hymns": [
@@ -12106,8 +11958,8 @@
     ]
   },
   {
-    "id": "16ea592b-f409-42a2-a3f4-dd20dc02c023",
-    "name": "song",
+    "id": "c29b29ca-3d8f-43dd-ba39-bf75cca9912d",
+    "name": "Song",
     "seeAlso": [],
     "hymns": [
       {
@@ -12137,8 +11989,8 @@
     ]
   },
   {
-    "id": "54fa3164-a482-43ff-82ec-2a567d7b5a94",
-    "name": "sorrow",
+    "id": "03859d29-3f01-4330-8b55-cd94666c5155",
+    "name": "Sorrow",
     "seeAlso": [],
     "hymns": [
       {
@@ -12148,7 +12000,7 @@
     ]
   },
   {
-    "id": "d72f0c12-2c6a-400d-bbff-e1789ea186fe",
+    "id": "552dbe05-543d-4003-8341-08d7246d479a",
     "name": "Special Needs",
     "seeAlso": [],
     "hymns": [
@@ -12167,7 +12019,7 @@
     ]
   },
   {
-    "id": "0d233252-0468-4ab5-b638-9599e9312a75",
+    "id": "d3b5229d-bd34-4469-bd2d-acd03c47db17",
     "name": "Speech",
     "seeAlso": [
       "Gossip",
@@ -12206,8 +12058,8 @@
     ]
   },
   {
-    "id": "b7373e78-3f05-45a3-bc4e-0a02922aeac4",
-    "name": "spiritual gifts",
+    "id": "e3372acd-6bc7-45c9-9e3d-622b3883d72f",
+    "name": "Spiritual Gifts",
     "seeAlso": [],
     "hymns": [
       {
@@ -12217,7 +12069,7 @@
     ]
   },
   {
-    "id": "3aa37fce-bb0f-4780-aaeb-5f101bb8af63",
+    "id": "6034ee57-80f5-43fe-a80d-7e81fe262c07",
     "name": "Spirituality",
     "seeAlso": [
       "Humility",
@@ -12305,7 +12157,7 @@
     ]
   },
   {
-    "id": "fb19adc2-e061-482c-97c2-f512f2cf4f3e",
+    "id": "b51ae316-8e0a-4309-8302-c164603f8648",
     "name": "Spring",
     "seeAlso": [],
     "hymns": [
@@ -12327,6 +12179,14 @@
       },
       {
         "book": 2,
+        "number": "241a"
+      },
+      {
+        "book": 2,
+        "number": "241b"
+      },
+      {
+        "book": 2,
         "number": "242"
       },
       {
@@ -12340,19 +12200,11 @@
       {
         "book": 2,
         "number": "264"
-      },
-      {
-        "book": 2,
-        "number": "241a"
-      },
-      {
-        "book": 2,
-        "number": "241b"
       }
     ]
   },
   {
-    "id": "1a882570-99e6-4e4e-99bf-3c4e9ff0dc8b",
+    "id": "fe48f74a-19e9-4079-991f-6307e8c53c5b",
     "name": "Summer",
     "seeAlso": [],
     "hymns": [
@@ -12374,22 +12226,16 @@
       },
       {
         "book": 2,
-        "number": "245"
+        "number": "241b"
       },
       {
         "book": 2,
-        "number": "241b"
+        "number": "245"
       }
     ]
   },
   {
-    "id": "e84fbe91-5941-4bf3-9aeb-57bc9dbfa3c0",
-    "name": "Sunday (See Sabbath)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "bd8dff8a-2d26-4089-9e4a-5d8f044b0c30",
+    "id": "149e0ff9-7052-41e9-968a-75b11c3bd60c",
     "name": "Sunday School",
     "seeAlso": [
       "Sabbath Day",
@@ -12415,7 +12261,7 @@
     ]
   },
   {
-    "id": "181f74a6-4083-42c4-9806-b318965082e5",
+    "id": "37705317-eadc-47e3-bc92-ab47f94ac8a5",
     "name": "Supplication",
     "seeAlso": [
       "Meditation",
@@ -12542,7 +12388,7 @@
     ]
   },
   {
-    "id": "a747a8f4-48ac-4a66-a40b-bc9854bbf96e",
+    "id": "3df38175-587c-4df2-b2f0-89b24832d957",
     "name": "Talents",
     "seeAlso": [
       "Service"
@@ -12554,24 +12400,24 @@
       },
       {
         "book": 2,
+        "number": "22b"
+      },
+      {
+        "book": 2,
         "number": "142"
       },
       {
         "book": 2,
         "number": "236"
-      },
-      {
-        "book": 2,
-        "number": "22b"
       }
     ]
   },
   {
-    "id": "619663ca-121f-4fee-bfd6-68b48a67e594",
+    "id": "69c82229-1990-49e9-83cc-3fe690db6c81",
     "name": "Teachers",
     "seeAlso": [
       "Leaders",
-      "Songs for"
+      "Songs For"
     ],
     "hymns": [
       {
@@ -12613,7 +12459,7 @@
     ]
   },
   {
-    "id": "db6c867d-7e57-41ff-ac18-c8f36758ce1a",
+    "id": "a89c89c3-0456-4ba8-aea2-96a3cb316967",
     "name": "Teaching",
     "seeAlso": [
       "Charity",
@@ -12626,7 +12472,7 @@
       "Service",
       "Sunday School",
       "Welfare",
-      "Wisdom and Knowledge",
+      "Wisdom And Knowledge",
       "Work"
     ],
     "hymns": [
@@ -12653,7 +12499,7 @@
     ]
   },
   {
-    "id": "b0b73ec2-7031-4470-aa68-178e5e0e1e29",
+    "id": "77f5017f-657a-4201-98e2-09789b5c5729",
     "name": "Temples",
     "seeAlso": [
       "Family History"
@@ -12694,8 +12540,8 @@
     ]
   },
   {
-    "id": "b08608a8-a30f-4aa9-ad75-cd4dac23ae43",
-    "name": "temptation",
+    "id": "1dd2ec9b-7a3d-491b-8931-685daa4753c4",
+    "name": "Temptation",
     "seeAlso": [],
     "hymns": [
       {
@@ -12705,7 +12551,7 @@
     ]
   },
   {
-    "id": "ac7304c0-8aa9-49c4-8eb2-0fee903d6df1",
+    "id": "55a97e41-45b1-40ed-a59c-d91b5eb9ca66",
     "name": "Ten Commandments",
     "seeAlso": [
       "Commandments"
@@ -12722,12 +12568,12 @@
     ]
   },
   {
-    "id": "e5f4a2c4-9575-436c-82df-d3a6690864a3",
+    "id": "52c59488-0f79-4032-8271-20db02891c74",
     "name": "Testimony",
     "seeAlso": [
       "Depression",
       "Faith",
-      "Trust in God"
+      "Trust In God"
     ],
     "hymns": [
       {
@@ -12845,13 +12691,7 @@
     ]
   },
   {
-    "id": "2f2da25b-7115-424a-a5e3-6d4f91ccae4d",
-    "name": "Thankfulness (See Gratitude)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "9393aa7a-9891-4beb-b636-db5832604cf0",
+    "id": "5e42969d-aa2d-4de8-b886-5817baa309a0",
     "name": "Thanksgiving",
     "seeAlso": [
       "Blessings",
@@ -12883,8 +12723,8 @@
     ]
   },
   {
-    "id": "6b621bca-25da-4743-82c3-5ea53313b23d",
-    "name": "the sacrament",
+    "id": "6907bccb-6edd-4d06-98b6-350b2775dad7",
+    "name": "The Sacrament",
     "seeAlso": [],
     "hymns": [
       {
@@ -12930,7 +12770,7 @@
     ]
   },
   {
-    "id": "87742e9a-6262-49ba-a729-0940f928823a",
+    "id": "3ca02339-f50a-4d05-99ca-5779fa3eb1a8",
     "name": "Tithing",
     "seeAlso": [],
     "hymns": [
@@ -12957,7 +12797,7 @@
     ]
   },
   {
-    "id": "12390f37-717a-4962-983d-f2cf561da137",
+    "id": "9d9b3fee-eaed-4953-b2e9-4e4afacaafb5",
     "name": "Trials",
     "seeAlso": [
       "Adversity",
@@ -13121,8 +12961,8 @@
     ]
   },
   {
-    "id": "72916ed3-9c27-4823-a760-922344c9b047",
-    "name": "trust",
+    "id": "5e3e0726-71ba-498d-9d9d-2edf3122256c",
+    "name": "Trust",
     "seeAlso": [],
     "hymns": [
       {
@@ -13132,8 +12972,8 @@
     ]
   },
   {
-    "id": "8e247510-46a1-4097-9312-b7a48bba4d56",
-    "name": "trust in the Lord",
+    "id": "3c339827-9faa-47b6-a541-9f38dee20114",
+    "name": "Trust In The Lord",
     "seeAlso": [],
     "hymns": [
       {
@@ -13187,14 +13027,16 @@
     ]
   },
   {
-    "id": "77265684-abec-4f30-90f7-c6c45815aa9d",
+    "id": "7f95692c-2da6-4d70-b6d3-15850e8a02f2",
     "name": "Truth",
     "seeAlso": [
+      "Honesty",
       "Knowledge",
       "Learning",
       "Meditation",
       "Scriptures",
-      "Wisdom and Knowledge"
+      "Testimony",
+      "Wisdom And Knowledge"
     ],
     "hymns": [
       {
@@ -13300,14 +13142,8 @@
     ]
   },
   {
-    "id": "c74b6334-9dbc-497b-a4b3-bd49a3a879d8",
-    "name": "Truth (See Honesty, Testimony)",
-    "seeAlso": [],
-    "hymns": []
-  },
-  {
-    "id": "794a2235-dbbf-405e-9b6d-a577e91ffe23",
-    "name": "Two-part Songs , Songs with, Obbligatos (Optional Instrumental Parts), Songs with, Ostinatos (Optional Repeated Patterns), Songs with, Rounds)",
+    "id": "87050052-9f2c-4de3-a00c-d71c1782bd5b",
+    "name": "Two-Part Songs , Songs With, Obbligatos (Optional Instrumental Parts), Songs With, Ostinatos (Optional Repeated Patterns), Songs With, Rounds)",
     "seeAlso": [
       "Descants (Optional Voice Parts"
     ],
@@ -13323,7 +13159,7 @@
     ]
   },
   {
-    "id": "79be7b61-0278-4a8f-b49c-7c1d9ac21edb",
+    "id": "aa26aef3-fc3b-4705-b142-a35ae9d75fc5",
     "name": "Unity",
     "seeAlso": [
       "Fellowship",
@@ -13409,7 +13245,7 @@
     ]
   },
   {
-    "id": "88ea89e5-dab9-4e12-b373-b216fc629375",
+    "id": "90051417-5064-45e3-bce5-38b37a0e4f3e",
     "name": "Winter",
     "seeAlso": [],
     "hymns": [
@@ -13419,21 +13255,21 @@
       },
       {
         "book": 2,
+        "number": "241b"
+      },
+      {
+        "book": 2,
         "number": "248"
       },
       {
         "book": 2,
         "number": "249"
-      },
-      {
-        "book": 2,
-        "number": "241b"
       }
     ]
   },
   {
-    "id": "01f7acd4-1f2a-4367-91c9-377f838efed5",
-    "name": "wisdom",
+    "id": "3b4392c0-6e9f-43ef-bb48-7540bd13b210",
+    "name": "Wisdom",
     "seeAlso": [],
     "hymns": [
       {
@@ -13443,8 +13279,8 @@
     ]
   },
   {
-    "id": "8f09d5fd-82a2-4ddf-980e-12cf4560c3a8",
-    "name": "Wisdom and Knowledge",
+    "id": "02a5396c-039c-453e-8eb8-251c8ac88174",
+    "name": "Wisdom And Knowledge",
     "seeAlso": [
       "Knowledge",
       "Learning",
@@ -13495,8 +13331,8 @@
     ]
   },
   {
-    "id": "22a2ccb6-2694-4183-8745-cbb653ba99d1",
-    "name": "Word of Wisdom",
+    "id": "d18d4aaf-d0f0-431e-a304-bed470c6832d",
+    "name": "Word Of Wisdom",
     "seeAlso": [
       "Moderation",
       "Temperance"
@@ -13553,7 +13389,7 @@
     ]
   },
   {
-    "id": "b5865850-aa80-41cc-a5df-47195c983874",
+    "id": "a4c5bcc1-338d-424f-bfe7-0d9cac2c7a5b",
     "name": "Work",
     "seeAlso": [
       "Service"
@@ -13562,6 +13398,10 @@
       {
         "book": 2,
         "number": "196"
+      },
+      {
+        "book": 2,
+        "number": "198b"
       },
       {
         "book": 2,
@@ -13574,10 +13414,6 @@
       {
         "book": 2,
         "number": "237"
-      },
-      {
-        "book": 2,
-        "number": "198b"
       },
       {
         "book": 3,
@@ -13598,7 +13434,7 @@
     ]
   },
   {
-    "id": "30ebbb8e-f170-4b6f-be62-5bf18550442b",
+    "id": "2a4a1448-52fd-4591-8193-949d0354a63c",
     "name": "Worldwide Church",
     "seeAlso": [],
     "hymns": [
@@ -13633,7 +13469,7 @@
     ]
   },
   {
-    "id": "0e81dd5d-adf8-480f-a214-b1ca75501a6a",
+    "id": "256f33d5-9984-444d-8151-a73e7d1a8f4b",
     "name": "Worship",
     "seeAlso": [
       "Praise"
@@ -13758,8 +13594,8 @@
     ]
   },
   {
-    "id": "b610075a-da2f-4d41-be81-2e46face7c16",
-    "name": "Worth of a Child",
+    "id": "e56c9a23-b041-4711-bd07-629f4a4e65bb",
+    "name": "Worth Of A Child",
     "seeAlso": [
       "Jesus Christ-Blesses Children",
       "Special Needs"
@@ -13784,6 +13620,14 @@
       {
         "book": 2,
         "number": "16"
+      },
+      {
+        "book": 2,
+        "number": "58a"
+      },
+      {
+        "book": 2,
+        "number": "58b"
       },
       {
         "book": 2,
@@ -13832,24 +13676,16 @@
       {
         "book": 2,
         "number": "234"
-      },
-      {
-        "book": 2,
-        "number": "58a"
-      },
-      {
-        "book": 2,
-        "number": "58b"
       }
     ]
   },
   {
-    "id": "2257a3e3-0fb8-4c6f-9154-c149e9c4bbd1",
+    "id": "331241ce-139f-4155-a86d-9c37e5c19a64",
     "name": "Worthiness",
     "seeAlso": [
       "Commandments",
       "Diligence",
-      "Enduring to the End",
+      "Enduring To The End",
       "Goals",
       "Purity",
       "Righteousness",
@@ -13961,7 +13797,7 @@
     ]
   },
   {
-    "id": "8d3451ed-83e7-4710-9203-8abd8bc18771",
+    "id": "27393d34-d0f6-43a5-b2f8-1dc2bfd14d9c",
     "name": "Youth",
     "seeAlso": [
       "Aaronic Priesthood",
@@ -14035,10 +13871,10 @@
     ]
   },
   {
-    "id": "7839d5ac-b835-4cc6-a2b4-3d51894039ec",
+    "id": "06237746-cd4a-4121-aef0-594d4b891f13",
     "name": "Zion",
     "seeAlso": [
-      "Gathering of Israel",
+      "Gathering Of Israel",
       "Israel",
       "Jesus Christ - Second Coming",
       "Justice",
