@@ -1,8 +1,8 @@
 {
-  "name" : "Home & Church",
-  "date" : "2026-05-02T14:27:47Z",
-  "versionDescription" : "2027. 2024-Edition",
   "locale" : "en",
   "type" : 3,
-  "version" : 12
+  "version" : 13,
+  "versionDescription" : "2027. 2024 Edition",
+  "date" : "2026-06-28T17:45:32Z",
+  "name" : "Home & Church"
 }
